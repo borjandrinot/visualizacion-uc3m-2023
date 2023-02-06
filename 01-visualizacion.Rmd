@@ -1,0 +1,64 @@
+---
+title: "Ejercicios visualización"
+output: html_notebook
+---
+
+Ejercicio 1.- A partir del dataset del Ayuntamiento de Madrid sobre tipos de salidas, haz un gráfico de barras en el que se observen los principales motivos. 
+```{r}
+
+```
+
+
+Ejercicio 2.- Añade color a la visualización para resaltar los tipos de salidas con mayor incidencia
+```{r}
+
+```
+
+Ejercicio 3.- A partir del dataset de salidas mensuales por tipo de salida, haz un gráfico que represente la evolución mensual de estos datos
+```{r}
+
+```
+
+Ejercicio 4.- Utiliza alguno de los parámetros del aesthetics para destacar dos tipos de salida y escribe un párrafo contando qué te llama la atención de ellos.
+```{r}
+
+```
+
+
+Ejercicio 5.- Intenta hacer el gráfico anterior, pero ahora con una interpolación por pasos. Además, añádele puntos en cada paso para observar mejor cada mes. 
+```{r}
+
+```
+
+Ejercicio 6.- Representa en un gráfico el resultado total de las elecciones de Andalucía. ¿Puedes colorear por cada partido?
+
+```{r}
+
+```
+
+
+Ejercicio 7.- Intenta replicar este gráfico a partir de los datasets que hemos adjuntado para esta práctica.
+![Gráfico elecciones Andalucía](imgs/resultados_provs_andalucia.png)
+
+```{r}
+
+```
+
+
+Ejercicio 8.- Realiza este mismo gráfico para tipo de municipio. 
+```{r}
+
+```
+
+
+Ejercicio 9.- Con los datos del ejercicio anterior busca otro tipo de gráfico para representar el voto por tipo de municipio para cada partido
+```{r}
+
+```
+
+
+Ejercicio 10.- A partir de los datos por municipio de las últimas elecciones de Castilla y León elige un gráfico y escribe un párrafo con alguna cuestión interesante que observes en él. 
+```{r}
+
+```
+

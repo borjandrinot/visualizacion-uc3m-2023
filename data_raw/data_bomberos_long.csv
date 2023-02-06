@@ -1,0 +1,1929 @@
+date,ano,mes,distrito,tipo_salida,salidas
+2022-12-01,2022,12,CENTRO,fuegos,26
+2022-12-01,2022,12,CENTRO,danos_en_construccion,40
+2022-12-01,2022,12,CENTRO,salvamentos_y_rescates,56
+2022-12-01,2022,12,CENTRO,danos_por_agua,41
+2022-12-01,2022,12,CENTRO,incidentes_diversos,70
+2022-12-01,2022,12,CENTRO,salidas_sin_intervencion,84
+2022-12-01,2022,12,CENTRO,servicios_varios,14
+2022-12-01,2022,12,CENTRO,total,331
+2022-12-01,2022,12,ARGANZUELA,fuegos,6
+2022-12-01,2022,12,ARGANZUELA,danos_en_construccion,11
+2022-12-01,2022,12,ARGANZUELA,salvamentos_y_rescates,12
+2022-12-01,2022,12,ARGANZUELA,danos_por_agua,10
+2022-12-01,2022,12,ARGANZUELA,incidentes_diversos,6
+2022-12-01,2022,12,ARGANZUELA,salidas_sin_intervencion,34
+2022-12-01,2022,12,ARGANZUELA,servicios_varios,2
+2022-12-01,2022,12,ARGANZUELA,total,81
+2022-12-01,2022,12,RETIRO,fuegos,4
+2022-12-01,2022,12,RETIRO,danos_en_construccion,9
+2022-12-01,2022,12,RETIRO,salvamentos_y_rescates,15
+2022-12-01,2022,12,RETIRO,danos_por_agua,12
+2022-12-01,2022,12,RETIRO,incidentes_diversos,10
+2022-12-01,2022,12,RETIRO,salidas_sin_intervencion,16
+2022-12-01,2022,12,RETIRO,servicios_varios,2
+2022-12-01,2022,12,RETIRO,total,68
+2022-12-01,2022,12,SALAMANCA,fuegos,7
+2022-12-01,2022,12,SALAMANCA,danos_en_construccion,15
+2022-12-01,2022,12,SALAMANCA,salvamentos_y_rescates,31
+2022-12-01,2022,12,SALAMANCA,danos_por_agua,13
+2022-12-01,2022,12,SALAMANCA,incidentes_diversos,23
+2022-12-01,2022,12,SALAMANCA,salidas_sin_intervencion,29
+2022-12-01,2022,12,SALAMANCA,servicios_varios,8
+2022-12-01,2022,12,SALAMANCA,total,126
+2022-12-01,2022,12,CHAMARTIN,fuegos,13
+2022-12-01,2022,12,CHAMARTIN,danos_en_construccion,7
+2022-12-01,2022,12,CHAMARTIN,salvamentos_y_rescates,21
+2022-12-01,2022,12,CHAMARTIN,danos_por_agua,20
+2022-12-01,2022,12,CHAMARTIN,incidentes_diversos,21
+2022-12-01,2022,12,CHAMARTIN,salidas_sin_intervencion,21
+2022-12-01,2022,12,CHAMARTIN,servicios_varios,3
+2022-12-01,2022,12,CHAMARTIN,total,106
+2022-12-01,2022,12,TETUAN,fuegos,12
+2022-12-01,2022,12,TETUAN,danos_en_construccion,16
+2022-12-01,2022,12,TETUAN,salvamentos_y_rescates,22
+2022-12-01,2022,12,TETUAN,danos_por_agua,24
+2022-12-01,2022,12,TETUAN,incidentes_diversos,18
+2022-12-01,2022,12,TETUAN,salidas_sin_intervencion,32
+2022-12-01,2022,12,TETUAN,servicios_varios,7
+2022-12-01,2022,12,TETUAN,total,131
+2022-12-01,2022,12,CHAMBERI,fuegos,13
+2022-12-01,2022,12,CHAMBERI,danos_en_construccion,11
+2022-12-01,2022,12,CHAMBERI,salvamentos_y_rescates,23
+2022-12-01,2022,12,CHAMBERI,danos_por_agua,7
+2022-12-01,2022,12,CHAMBERI,incidentes_diversos,11
+2022-12-01,2022,12,CHAMBERI,salidas_sin_intervencion,24
+2022-12-01,2022,12,CHAMBERI,servicios_varios,4
+2022-12-01,2022,12,CHAMBERI,total,93
+2022-12-01,2022,12,FUENCARRAL,fuegos,22
+2022-12-01,2022,12,FUENCARRAL,danos_en_construccion,3
+2022-12-01,2022,12,FUENCARRAL,salvamentos_y_rescates,27
+2022-12-01,2022,12,FUENCARRAL,danos_por_agua,12
+2022-12-01,2022,12,FUENCARRAL,incidentes_diversos,23
+2022-12-01,2022,12,FUENCARRAL,salidas_sin_intervencion,29
+2022-12-01,2022,12,FUENCARRAL,servicios_varios,7
+2022-12-01,2022,12,FUENCARRAL,total,123
+2022-12-01,2022,12,MONCLOA,fuegos,11
+2022-12-01,2022,12,MONCLOA,danos_en_construccion,6
+2022-12-01,2022,12,MONCLOA,salvamentos_y_rescates,11
+2022-12-01,2022,12,MONCLOA,danos_por_agua,11
+2022-12-01,2022,12,MONCLOA,incidentes_diversos,23
+2022-12-01,2022,12,MONCLOA,salidas_sin_intervencion,27
+2022-12-01,2022,12,MONCLOA,servicios_varios,11
+2022-12-01,2022,12,MONCLOA,total,100
+2022-12-01,2022,12,LATINA,fuegos,15
+2022-12-01,2022,12,LATINA,danos_en_construccion,7
+2022-12-01,2022,12,LATINA,salvamentos_y_rescates,47
+2022-12-01,2022,12,LATINA,danos_por_agua,16
+2022-12-01,2022,12,LATINA,incidentes_diversos,18
+2022-12-01,2022,12,LATINA,salidas_sin_intervencion,34
+2022-12-01,2022,12,LATINA,servicios_varios,8
+2022-12-01,2022,12,LATINA,total,145
+2022-12-01,2022,12,CARABANCHEL,fuegos,10
+2022-12-01,2022,12,CARABANCHEL,danos_en_construccion,7
+2022-12-01,2022,12,CARABANCHEL,salvamentos_y_rescates,24
+2022-12-01,2022,12,CARABANCHEL,danos_por_agua,15
+2022-12-01,2022,12,CARABANCHEL,incidentes_diversos,19
+2022-12-01,2022,12,CARABANCHEL,salidas_sin_intervencion,35
+2022-12-01,2022,12,CARABANCHEL,servicios_varios,3
+2022-12-01,2022,12,CARABANCHEL,total,113
+2022-12-01,2022,12,USERA,fuegos,19
+2022-12-01,2022,12,USERA,danos_en_construccion,10
+2022-12-01,2022,12,USERA,salvamentos_y_rescates,13
+2022-12-01,2022,12,USERA,danos_por_agua,12
+2022-12-01,2022,12,USERA,incidentes_diversos,15
+2022-12-01,2022,12,USERA,salidas_sin_intervencion,32
+2022-12-01,2022,12,USERA,servicios_varios,3
+2022-12-01,2022,12,USERA,total,104
+2022-12-01,2022,12,PUENTE VALLECAS,fuegos,23
+2022-12-01,2022,12,PUENTE VALLECAS,danos_en_construccion,13
+2022-12-01,2022,12,PUENTE VALLECAS,salvamentos_y_rescates,37
+2022-12-01,2022,12,PUENTE VALLECAS,danos_por_agua,15
+2022-12-01,2022,12,PUENTE VALLECAS,incidentes_diversos,26
+2022-12-01,2022,12,PUENTE VALLECAS,salidas_sin_intervencion,32
+2022-12-01,2022,12,PUENTE VALLECAS,servicios_varios,45
+2022-12-01,2022,12,PUENTE VALLECAS,total,191
+2022-12-01,2022,12,MORATALAZ,fuegos,8
+2022-12-01,2022,12,MORATALAZ,danos_en_construccion,2
+2022-12-01,2022,12,MORATALAZ,salvamentos_y_rescates,11
+2022-12-01,2022,12,MORATALAZ,danos_por_agua,12
+2022-12-01,2022,12,MORATALAZ,incidentes_diversos,8
+2022-12-01,2022,12,MORATALAZ,salidas_sin_intervencion,13
+2022-12-01,2022,12,MORATALAZ,servicios_varios,3
+2022-12-01,2022,12,MORATALAZ,total,57
+2022-12-01,2022,12,CIUDAD LINEAL,fuegos,8
+2022-12-01,2022,12,CIUDAD LINEAL,danos_en_construccion,7
+2022-12-01,2022,12,CIUDAD LINEAL,salvamentos_y_rescates,35
+2022-12-01,2022,12,CIUDAD LINEAL,danos_por_agua,12
+2022-12-01,2022,12,CIUDAD LINEAL,incidentes_diversos,10
+2022-12-01,2022,12,CIUDAD LINEAL,salidas_sin_intervencion,32
+2022-12-01,2022,12,CIUDAD LINEAL,servicios_varios,5
+2022-12-01,2022,12,CIUDAD LINEAL,total,109
+2022-12-01,2022,12,HORTALEZA,fuegos,11
+2022-12-01,2022,12,HORTALEZA,danos_en_construccion,6
+2022-12-01,2022,12,HORTALEZA,salvamentos_y_rescates,24
+2022-12-01,2022,12,HORTALEZA,danos_por_agua,7
+2022-12-01,2022,12,HORTALEZA,incidentes_diversos,20
+2022-12-01,2022,12,HORTALEZA,salidas_sin_intervencion,21
+2022-12-01,2022,12,HORTALEZA,servicios_varios,4
+2022-12-01,2022,12,HORTALEZA,total,93
+2022-12-01,2022,12,VILLAVERDE,fuegos,24
+2022-12-01,2022,12,VILLAVERDE,danos_en_construccion,6
+2022-12-01,2022,12,VILLAVERDE,salvamentos_y_rescates,12
+2022-12-01,2022,12,VILLAVERDE,danos_por_agua,13
+2022-12-01,2022,12,VILLAVERDE,incidentes_diversos,14
+2022-12-01,2022,12,VILLAVERDE,salidas_sin_intervencion,23
+2022-12-01,2022,12,VILLAVERDE,servicios_varios,6
+2022-12-01,2022,12,VILLAVERDE,total,98
+2022-12-01,2022,12,VILLA DE VALLECAS,fuegos,8
+2022-12-01,2022,12,VILLA DE VALLECAS,danos_en_construccion,3
+2022-12-01,2022,12,VILLA DE VALLECAS,salvamentos_y_rescates,23
+2022-12-01,2022,12,VILLA DE VALLECAS,danos_por_agua,5
+2022-12-01,2022,12,VILLA DE VALLECAS,incidentes_diversos,13
+2022-12-01,2022,12,VILLA DE VALLECAS,salidas_sin_intervencion,21
+2022-12-01,2022,12,VILLA DE VALLECAS,servicios_varios,1
+2022-12-01,2022,12,VILLA DE VALLECAS,total,74
+2022-12-01,2022,12,VICALVARO,fuegos,10
+2022-12-01,2022,12,VICALVARO,danos_en_construccion,4
+2022-12-01,2022,12,VICALVARO,salvamentos_y_rescates,9
+2022-12-01,2022,12,VICALVARO,danos_por_agua,8
+2022-12-01,2022,12,VICALVARO,incidentes_diversos,5
+2022-12-01,2022,12,VICALVARO,salidas_sin_intervencion,8
+2022-12-01,2022,12,VICALVARO,servicios_varios,4
+2022-12-01,2022,12,VICALVARO,total,48
+2022-12-01,2022,12,SAN BLAS,fuegos,11
+2022-12-01,2022,12,SAN BLAS,danos_en_construccion,11
+2022-12-01,2022,12,SAN BLAS,salvamentos_y_rescates,13
+2022-12-01,2022,12,SAN BLAS,danos_por_agua,6
+2022-12-01,2022,12,SAN BLAS,incidentes_diversos,23
+2022-12-01,2022,12,SAN BLAS,salidas_sin_intervencion,23
+2022-12-01,2022,12,SAN BLAS,servicios_varios,3
+2022-12-01,2022,12,SAN BLAS,total,90
+2022-12-01,2022,12,BARAJAS,fuegos,1
+2022-12-01,2022,12,BARAJAS,danos_en_construccion,2
+2022-12-01,2022,12,BARAJAS,salvamentos_y_rescates,7
+2022-12-01,2022,12,BARAJAS,danos_por_agua,6
+2022-12-01,2022,12,BARAJAS,incidentes_diversos,8
+2022-12-01,2022,12,BARAJAS,salidas_sin_intervencion,5
+2022-12-01,2022,12,BARAJAS,servicios_varios,5
+2022-12-01,2022,12,BARAJAS,total,34
+2022-12-01,2022,12,FUERA TERMINO MUNICIPAL,fuegos,0
+2022-12-01,2022,12,FUERA TERMINO MUNICIPAL,danos_en_construccion,0
+2022-12-01,2022,12,FUERA TERMINO MUNICIPAL,salvamentos_y_rescates,0
+2022-12-01,2022,12,FUERA TERMINO MUNICIPAL,danos_por_agua,0
+2022-12-01,2022,12,FUERA TERMINO MUNICIPAL,incidentes_diversos,1
+2022-12-01,2022,12,FUERA TERMINO MUNICIPAL,salidas_sin_intervencion,1
+2022-12-01,2022,12,FUERA TERMINO MUNICIPAL,servicios_varios,0
+2022-12-01,2022,12,FUERA TERMINO MUNICIPAL,total,2
+2022-11-01,2022,11,CENTRO,fuegos,22
+2022-11-01,2022,11,CENTRO,danos_en_construccion,34
+2022-11-01,2022,11,CENTRO,salvamentos_y_rescates,40
+2022-11-01,2022,11,CENTRO,danos_por_agua,13
+2022-11-01,2022,11,CENTRO,incidentes_diversos,49
+2022-11-01,2022,11,CENTRO,salidas_sin_intervencion,56
+2022-11-01,2022,11,CENTRO,servicios_varios,24
+2022-11-01,2022,11,CENTRO,total,238
+2022-11-01,2022,11,ARGANZUELA,fuegos,10
+2022-11-01,2022,11,ARGANZUELA,danos_en_construccion,9
+2022-11-01,2022,11,ARGANZUELA,salvamentos_y_rescates,22
+2022-11-01,2022,11,ARGANZUELA,danos_por_agua,6
+2022-11-01,2022,11,ARGANZUELA,incidentes_diversos,18
+2022-11-01,2022,11,ARGANZUELA,salidas_sin_intervencion,17
+2022-11-01,2022,11,ARGANZUELA,servicios_varios,0
+2022-11-01,2022,11,ARGANZUELA,total,82
+2022-11-01,2022,11,RETIRO,fuegos,6
+2022-11-01,2022,11,RETIRO,danos_en_construccion,7
+2022-11-01,2022,11,RETIRO,salvamentos_y_rescates,21
+2022-11-01,2022,11,RETIRO,danos_por_agua,8
+2022-11-01,2022,11,RETIRO,incidentes_diversos,16
+2022-11-01,2022,11,RETIRO,salidas_sin_intervencion,23
+2022-11-01,2022,11,RETIRO,servicios_varios,6
+2022-11-01,2022,11,RETIRO,total,87
+2022-11-01,2022,11,SALAMANCA,fuegos,8
+2022-11-01,2022,11,SALAMANCA,danos_en_construccion,10
+2022-11-01,2022,11,SALAMANCA,salvamentos_y_rescates,15
+2022-11-01,2022,11,SALAMANCA,danos_por_agua,12
+2022-11-01,2022,11,SALAMANCA,incidentes_diversos,28
+2022-11-01,2022,11,SALAMANCA,salidas_sin_intervencion,26
+2022-11-01,2022,11,SALAMANCA,servicios_varios,17
+2022-11-01,2022,11,SALAMANCA,total,116
+2022-11-01,2022,11,CHAMARTIN,fuegos,12
+2022-11-01,2022,11,CHAMARTIN,danos_en_construccion,6
+2022-11-01,2022,11,CHAMARTIN,salvamentos_y_rescates,18
+2022-11-01,2022,11,CHAMARTIN,danos_por_agua,10
+2022-11-01,2022,11,CHAMARTIN,incidentes_diversos,33
+2022-11-01,2022,11,CHAMARTIN,salidas_sin_intervencion,18
+2022-11-01,2022,11,CHAMARTIN,servicios_varios,6
+2022-11-01,2022,11,CHAMARTIN,total,103
+2022-11-01,2022,11,TETUAN,fuegos,10
+2022-11-01,2022,11,TETUAN,danos_en_construccion,4
+2022-11-01,2022,11,TETUAN,salvamentos_y_rescates,22
+2022-11-01,2022,11,TETUAN,danos_por_agua,14
+2022-11-01,2022,11,TETUAN,incidentes_diversos,11
+2022-11-01,2022,11,TETUAN,salidas_sin_intervencion,22
+2022-11-01,2022,11,TETUAN,servicios_varios,12
+2022-11-01,2022,11,TETUAN,total,95
+2022-11-01,2022,11,CHAMBERI,fuegos,9
+2022-11-01,2022,11,CHAMBERI,danos_en_construccion,5
+2022-11-01,2022,11,CHAMBERI,salvamentos_y_rescates,18
+2022-11-01,2022,11,CHAMBERI,danos_por_agua,15
+2022-11-01,2022,11,CHAMBERI,incidentes_diversos,20
+2022-11-01,2022,11,CHAMBERI,salidas_sin_intervencion,17
+2022-11-01,2022,11,CHAMBERI,servicios_varios,3
+2022-11-01,2022,11,CHAMBERI,total,87
+2022-11-01,2022,11,FUENCARRAL,fuegos,16
+2022-11-01,2022,11,FUENCARRAL,danos_en_construccion,4
+2022-11-01,2022,11,FUENCARRAL,salvamentos_y_rescates,25
+2022-11-01,2022,11,FUENCARRAL,danos_por_agua,16
+2022-11-01,2022,11,FUENCARRAL,incidentes_diversos,26
+2022-11-01,2022,11,FUENCARRAL,salidas_sin_intervencion,40
+2022-11-01,2022,11,FUENCARRAL,servicios_varios,5
+2022-11-01,2022,11,FUENCARRAL,total,132
+2022-11-01,2022,11,MONCLOA,fuegos,9
+2022-11-01,2022,11,MONCLOA,danos_en_construccion,10
+2022-11-01,2022,11,MONCLOA,salvamentos_y_rescates,22
+2022-11-01,2022,11,MONCLOA,danos_por_agua,7
+2022-11-01,2022,11,MONCLOA,incidentes_diversos,30
+2022-11-01,2022,11,MONCLOA,salidas_sin_intervencion,25
+2022-11-01,2022,11,MONCLOA,servicios_varios,8
+2022-11-01,2022,11,MONCLOA,total,111
+2022-11-01,2022,11,LATINA,fuegos,14
+2022-11-01,2022,11,LATINA,danos_en_construccion,8
+2022-11-01,2022,11,LATINA,salvamentos_y_rescates,33
+2022-11-01,2022,11,LATINA,danos_por_agua,7
+2022-11-01,2022,11,LATINA,incidentes_diversos,22
+2022-11-01,2022,11,LATINA,salidas_sin_intervencion,33
+2022-11-01,2022,11,LATINA,servicios_varios,5
+2022-11-01,2022,11,LATINA,total,122
+2022-11-01,2022,11,CARABANCHEL,fuegos,22
+2022-11-01,2022,11,CARABANCHEL,danos_en_construccion,6
+2022-11-01,2022,11,CARABANCHEL,salvamentos_y_rescates,30
+2022-11-01,2022,11,CARABANCHEL,danos_por_agua,10
+2022-11-01,2022,11,CARABANCHEL,incidentes_diversos,24
+2022-11-01,2022,11,CARABANCHEL,salidas_sin_intervencion,42
+2022-11-01,2022,11,CARABANCHEL,servicios_varios,4
+2022-11-01,2022,11,CARABANCHEL,total,138
+2022-11-01,2022,11,USERA,fuegos,12
+2022-11-01,2022,11,USERA,danos_en_construccion,4
+2022-11-01,2022,11,USERA,salvamentos_y_rescates,15
+2022-11-01,2022,11,USERA,danos_por_agua,6
+2022-11-01,2022,11,USERA,incidentes_diversos,13
+2022-11-01,2022,11,USERA,salidas_sin_intervencion,21
+2022-11-01,2022,11,USERA,servicios_varios,5
+2022-11-01,2022,11,USERA,total,76
+2022-11-01,2022,11,PUENTE VALLECAS,fuegos,31
+2022-11-01,2022,11,PUENTE VALLECAS,danos_en_construccion,8
+2022-11-01,2022,11,PUENTE VALLECAS,salvamentos_y_rescates,40
+2022-11-01,2022,11,PUENTE VALLECAS,danos_por_agua,3
+2022-11-01,2022,11,PUENTE VALLECAS,incidentes_diversos,21
+2022-11-01,2022,11,PUENTE VALLECAS,salidas_sin_intervencion,47
+2022-11-01,2022,11,PUENTE VALLECAS,servicios_varios,54
+2022-11-01,2022,11,PUENTE VALLECAS,total,204
+2022-11-01,2022,11,MORATALAZ,fuegos,3
+2022-11-01,2022,11,MORATALAZ,danos_en_construccion,4
+2022-11-01,2022,11,MORATALAZ,salvamentos_y_rescates,11
+2022-11-01,2022,11,MORATALAZ,danos_por_agua,4
+2022-11-01,2022,11,MORATALAZ,incidentes_diversos,12
+2022-11-01,2022,11,MORATALAZ,salidas_sin_intervencion,11
+2022-11-01,2022,11,MORATALAZ,servicios_varios,2
+2022-11-01,2022,11,MORATALAZ,total,47
+2022-11-01,2022,11,CIUDAD LINEAL,fuegos,9
+2022-11-01,2022,11,CIUDAD LINEAL,danos_en_construccion,6
+2022-11-01,2022,11,CIUDAD LINEAL,salvamentos_y_rescates,19
+2022-11-01,2022,11,CIUDAD LINEAL,danos_por_agua,11
+2022-11-01,2022,11,CIUDAD LINEAL,incidentes_diversos,14
+2022-11-01,2022,11,CIUDAD LINEAL,salidas_sin_intervencion,25
+2022-11-01,2022,11,CIUDAD LINEAL,servicios_varios,5
+2022-11-01,2022,11,CIUDAD LINEAL,total,89
+2022-11-01,2022,11,HORTALEZA,fuegos,3
+2022-11-01,2022,11,HORTALEZA,danos_en_construccion,3
+2022-11-01,2022,11,HORTALEZA,salvamentos_y_rescates,20
+2022-11-01,2022,11,HORTALEZA,danos_por_agua,5
+2022-11-01,2022,11,HORTALEZA,incidentes_diversos,17
+2022-11-01,2022,11,HORTALEZA,salidas_sin_intervencion,28
+2022-11-01,2022,11,HORTALEZA,servicios_varios,4
+2022-11-01,2022,11,HORTALEZA,total,80
+2022-11-01,2022,11,VILLAVERDE,fuegos,25
+2022-11-01,2022,11,VILLAVERDE,danos_en_construccion,1
+2022-11-01,2022,11,VILLAVERDE,salvamentos_y_rescates,19
+2022-11-01,2022,11,VILLAVERDE,danos_por_agua,5
+2022-11-01,2022,11,VILLAVERDE,incidentes_diversos,15
+2022-11-01,2022,11,VILLAVERDE,salidas_sin_intervencion,21
+2022-11-01,2022,11,VILLAVERDE,servicios_varios,3
+2022-11-01,2022,11,VILLAVERDE,total,89
+2022-11-01,2022,11,VILLA DE VALLECAS,fuegos,3
+2022-11-01,2022,11,VILLA DE VALLECAS,danos_en_construccion,1
+2022-11-01,2022,11,VILLA DE VALLECAS,salvamentos_y_rescates,8
+2022-11-01,2022,11,VILLA DE VALLECAS,danos_por_agua,6
+2022-11-01,2022,11,VILLA DE VALLECAS,incidentes_diversos,13
+2022-11-01,2022,11,VILLA DE VALLECAS,salidas_sin_intervencion,14
+2022-11-01,2022,11,VILLA DE VALLECAS,servicios_varios,2
+2022-11-01,2022,11,VILLA DE VALLECAS,total,47
+2022-11-01,2022,11,VICALVARO,fuegos,8
+2022-11-01,2022,11,VICALVARO,danos_en_construccion,2
+2022-11-01,2022,11,VICALVARO,salvamentos_y_rescates,12
+2022-11-01,2022,11,VICALVARO,danos_por_agua,3
+2022-11-01,2022,11,VICALVARO,incidentes_diversos,5
+2022-11-01,2022,11,VICALVARO,salidas_sin_intervencion,12
+2022-11-01,2022,11,VICALVARO,servicios_varios,5
+2022-11-01,2022,11,VICALVARO,total,47
+2022-11-01,2022,11,SAN BLAS,fuegos,10
+2022-11-01,2022,11,SAN BLAS,danos_en_construccion,5
+2022-11-01,2022,11,SAN BLAS,salvamentos_y_rescates,18
+2022-11-01,2022,11,SAN BLAS,danos_por_agua,7
+2022-11-01,2022,11,SAN BLAS,incidentes_diversos,18
+2022-11-01,2022,11,SAN BLAS,salidas_sin_intervencion,12
+2022-11-01,2022,11,SAN BLAS,servicios_varios,8
+2022-11-01,2022,11,SAN BLAS,total,78
+2022-11-01,2022,11,BARAJAS,fuegos,3
+2022-11-01,2022,11,BARAJAS,danos_en_construccion,1
+2022-11-01,2022,11,BARAJAS,salvamentos_y_rescates,4
+2022-11-01,2022,11,BARAJAS,danos_por_agua,5
+2022-11-01,2022,11,BARAJAS,incidentes_diversos,8
+2022-11-01,2022,11,BARAJAS,salidas_sin_intervencion,5
+2022-11-01,2022,11,BARAJAS,servicios_varios,0
+2022-11-01,2022,11,BARAJAS,total,26
+2022-11-01,2022,11,FUERA TERMINO MUNICIPAL,fuegos,0
+2022-11-01,2022,11,FUERA TERMINO MUNICIPAL,danos_en_construccion,0
+2022-11-01,2022,11,FUERA TERMINO MUNICIPAL,salvamentos_y_rescates,0
+2022-11-01,2022,11,FUERA TERMINO MUNICIPAL,danos_por_agua,0
+2022-11-01,2022,11,FUERA TERMINO MUNICIPAL,incidentes_diversos,0
+2022-11-01,2022,11,FUERA TERMINO MUNICIPAL,salidas_sin_intervencion,2
+2022-11-01,2022,11,FUERA TERMINO MUNICIPAL,servicios_varios,4
+2022-11-01,2022,11,FUERA TERMINO MUNICIPAL,total,6
+2022-10-01,2022,10,CENTRO,fuegos,19
+2022-10-01,2022,10,CENTRO,danos_en_construccion,28
+2022-10-01,2022,10,CENTRO,salvamentos_y_rescates,47
+2022-10-01,2022,10,CENTRO,danos_por_agua,11
+2022-10-01,2022,10,CENTRO,incidentes_diversos,46
+2022-10-01,2022,10,CENTRO,salidas_sin_intervencion,62
+2022-10-01,2022,10,CENTRO,servicios_varios,21
+2022-10-01,2022,10,CENTRO,total,234
+2022-10-01,2022,10,ARGANZUELA,fuegos,9
+2022-10-01,2022,10,ARGANZUELA,danos_en_construccion,9
+2022-10-01,2022,10,ARGANZUELA,salvamentos_y_rescates,17
+2022-10-01,2022,10,ARGANZUELA,danos_por_agua,4
+2022-10-01,2022,10,ARGANZUELA,incidentes_diversos,22
+2022-10-01,2022,10,ARGANZUELA,salidas_sin_intervencion,24
+2022-10-01,2022,10,ARGANZUELA,servicios_varios,4
+2022-10-01,2022,10,ARGANZUELA,total,89
+2022-10-01,2022,10,RETIRO,fuegos,5
+2022-10-01,2022,10,RETIRO,danos_en_construccion,8
+2022-10-01,2022,10,RETIRO,salvamentos_y_rescates,20
+2022-10-01,2022,10,RETIRO,danos_por_agua,3
+2022-10-01,2022,10,RETIRO,incidentes_diversos,20
+2022-10-01,2022,10,RETIRO,salidas_sin_intervencion,11
+2022-10-01,2022,10,RETIRO,servicios_varios,4
+2022-10-01,2022,10,RETIRO,total,71
+2022-10-01,2022,10,SALAMANCA,fuegos,15
+2022-10-01,2022,10,SALAMANCA,danos_en_construccion,7
+2022-10-01,2022,10,SALAMANCA,salvamentos_y_rescates,17
+2022-10-01,2022,10,SALAMANCA,danos_por_agua,8
+2022-10-01,2022,10,SALAMANCA,incidentes_diversos,31
+2022-10-01,2022,10,SALAMANCA,salidas_sin_intervencion,27
+2022-10-01,2022,10,SALAMANCA,servicios_varios,15
+2022-10-01,2022,10,SALAMANCA,total,120
+2022-10-01,2022,10,CHAMARTIN,fuegos,12
+2022-10-01,2022,10,CHAMARTIN,danos_en_construccion,8
+2022-10-01,2022,10,CHAMARTIN,salvamentos_y_rescates,18
+2022-10-01,2022,10,CHAMARTIN,danos_por_agua,4
+2022-10-01,2022,10,CHAMARTIN,incidentes_diversos,35
+2022-10-01,2022,10,CHAMARTIN,salidas_sin_intervencion,23
+2022-10-01,2022,10,CHAMARTIN,servicios_varios,10
+2022-10-01,2022,10,CHAMARTIN,total,110
+2022-10-01,2022,10,TETUAN,fuegos,23
+2022-10-01,2022,10,TETUAN,danos_en_construccion,12
+2022-10-01,2022,10,TETUAN,salvamentos_y_rescates,27
+2022-10-01,2022,10,TETUAN,danos_por_agua,5
+2022-10-01,2022,10,TETUAN,incidentes_diversos,14
+2022-10-01,2022,10,TETUAN,salidas_sin_intervencion,26
+2022-10-01,2022,10,TETUAN,servicios_varios,1
+2022-10-01,2022,10,TETUAN,total,108
+2022-10-01,2022,10,CHAMBERI,fuegos,20
+2022-10-01,2022,10,CHAMBERI,danos_en_construccion,9
+2022-10-01,2022,10,CHAMBERI,salvamentos_y_rescates,32
+2022-10-01,2022,10,CHAMBERI,danos_por_agua,11
+2022-10-01,2022,10,CHAMBERI,incidentes_diversos,34
+2022-10-01,2022,10,CHAMBERI,salidas_sin_intervencion,23
+2022-10-01,2022,10,CHAMBERI,servicios_varios,2
+2022-10-01,2022,10,CHAMBERI,total,131
+2022-10-01,2022,10,FUENCARRAL,fuegos,25
+2022-10-01,2022,10,FUENCARRAL,danos_en_construccion,7
+2022-10-01,2022,10,FUENCARRAL,salvamentos_y_rescates,21
+2022-10-01,2022,10,FUENCARRAL,danos_por_agua,12
+2022-10-01,2022,10,FUENCARRAL,incidentes_diversos,55
+2022-10-01,2022,10,FUENCARRAL,salidas_sin_intervencion,29
+2022-10-01,2022,10,FUENCARRAL,servicios_varios,14
+2022-10-01,2022,10,FUENCARRAL,total,163
+2022-10-01,2022,10,MONCLOA,fuegos,13
+2022-10-01,2022,10,MONCLOA,danos_en_construccion,7
+2022-10-01,2022,10,MONCLOA,salvamentos_y_rescates,19
+2022-10-01,2022,10,MONCLOA,danos_por_agua,3
+2022-10-01,2022,10,MONCLOA,incidentes_diversos,38
+2022-10-01,2022,10,MONCLOA,salidas_sin_intervencion,22
+2022-10-01,2022,10,MONCLOA,servicios_varios,6
+2022-10-01,2022,10,MONCLOA,total,108
+2022-10-01,2022,10,LATINA,fuegos,27
+2022-10-01,2022,10,LATINA,danos_en_construccion,9
+2022-10-01,2022,10,LATINA,salvamentos_y_rescates,29
+2022-10-01,2022,10,LATINA,danos_por_agua,7
+2022-10-01,2022,10,LATINA,incidentes_diversos,36
+2022-10-01,2022,10,LATINA,salidas_sin_intervencion,21
+2022-10-01,2022,10,LATINA,servicios_varios,4
+2022-10-01,2022,10,LATINA,total,133
+2022-10-01,2022,10,CARABANCHEL,fuegos,32
+2022-10-01,2022,10,CARABANCHEL,danos_en_construccion,10
+2022-10-01,2022,10,CARABANCHEL,salvamentos_y_rescates,41
+2022-10-01,2022,10,CARABANCHEL,danos_por_agua,3
+2022-10-01,2022,10,CARABANCHEL,incidentes_diversos,31
+2022-10-01,2022,10,CARABANCHEL,salidas_sin_intervencion,32
+2022-10-01,2022,10,CARABANCHEL,servicios_varios,4
+2022-10-01,2022,10,CARABANCHEL,total,153
+2022-10-01,2022,10,USERA,fuegos,23
+2022-10-01,2022,10,USERA,danos_en_construccion,4
+2022-10-01,2022,10,USERA,salvamentos_y_rescates,22
+2022-10-01,2022,10,USERA,danos_por_agua,2
+2022-10-01,2022,10,USERA,incidentes_diversos,17
+2022-10-01,2022,10,USERA,salidas_sin_intervencion,18
+2022-10-01,2022,10,USERA,servicios_varios,1
+2022-10-01,2022,10,USERA,total,87
+2022-10-01,2022,10,PUENTE VALLECAS,fuegos,24
+2022-10-01,2022,10,PUENTE VALLECAS,danos_en_construccion,11
+2022-10-01,2022,10,PUENTE VALLECAS,salvamentos_y_rescates,31
+2022-10-01,2022,10,PUENTE VALLECAS,danos_por_agua,6
+2022-10-01,2022,10,PUENTE VALLECAS,incidentes_diversos,43
+2022-10-01,2022,10,PUENTE VALLECAS,salidas_sin_intervencion,32
+2022-10-01,2022,10,PUENTE VALLECAS,servicios_varios,57
+2022-10-01,2022,10,PUENTE VALLECAS,total,204
+2022-10-01,2022,10,MORATALAZ,fuegos,5
+2022-10-01,2022,10,MORATALAZ,danos_en_construccion,4
+2022-10-01,2022,10,MORATALAZ,salvamentos_y_rescates,10
+2022-10-01,2022,10,MORATALAZ,danos_por_agua,3
+2022-10-01,2022,10,MORATALAZ,incidentes_diversos,18
+2022-10-01,2022,10,MORATALAZ,salidas_sin_intervencion,11
+2022-10-01,2022,10,MORATALAZ,servicios_varios,1
+2022-10-01,2022,10,MORATALAZ,total,52
+2022-10-01,2022,10,CIUDAD LINEAL,fuegos,10
+2022-10-01,2022,10,CIUDAD LINEAL,danos_en_construccion,5
+2022-10-01,2022,10,CIUDAD LINEAL,salvamentos_y_rescates,30
+2022-10-01,2022,10,CIUDAD LINEAL,danos_por_agua,6
+2022-10-01,2022,10,CIUDAD LINEAL,incidentes_diversos,38
+2022-10-01,2022,10,CIUDAD LINEAL,salidas_sin_intervencion,21
+2022-10-01,2022,10,CIUDAD LINEAL,servicios_varios,3
+2022-10-01,2022,10,CIUDAD LINEAL,total,113
+2022-10-01,2022,10,HORTALEZA,fuegos,3
+2022-10-01,2022,10,HORTALEZA,danos_en_construccion,4
+2022-10-01,2022,10,HORTALEZA,salvamentos_y_rescates,26
+2022-10-01,2022,10,HORTALEZA,danos_por_agua,7
+2022-10-01,2022,10,HORTALEZA,incidentes_diversos,35
+2022-10-01,2022,10,HORTALEZA,salidas_sin_intervencion,27
+2022-10-01,2022,10,HORTALEZA,servicios_varios,0
+2022-10-01,2022,10,HORTALEZA,total,102
+2022-10-01,2022,10,VILLAVERDE,fuegos,26
+2022-10-01,2022,10,VILLAVERDE,danos_en_construccion,7
+2022-10-01,2022,10,VILLAVERDE,salvamentos_y_rescates,21
+2022-10-01,2022,10,VILLAVERDE,danos_por_agua,9
+2022-10-01,2022,10,VILLAVERDE,incidentes_diversos,21
+2022-10-01,2022,10,VILLAVERDE,salidas_sin_intervencion,18
+2022-10-01,2022,10,VILLAVERDE,servicios_varios,2
+2022-10-01,2022,10,VILLAVERDE,total,104
+2022-10-01,2022,10,VILLA DE VALLECAS,fuegos,28
+2022-10-01,2022,10,VILLA DE VALLECAS,danos_en_construccion,5
+2022-10-01,2022,10,VILLA DE VALLECAS,salvamentos_y_rescates,14
+2022-10-01,2022,10,VILLA DE VALLECAS,danos_por_agua,3
+2022-10-01,2022,10,VILLA DE VALLECAS,incidentes_diversos,8
+2022-10-01,2022,10,VILLA DE VALLECAS,salidas_sin_intervencion,11
+2022-10-01,2022,10,VILLA DE VALLECAS,servicios_varios,1
+2022-10-01,2022,10,VILLA DE VALLECAS,total,70
+2022-10-01,2022,10,VICALVARO,fuegos,19
+2022-10-01,2022,10,VICALVARO,danos_en_construccion,3
+2022-10-01,2022,10,VICALVARO,salvamentos_y_rescates,6
+2022-10-01,2022,10,VICALVARO,danos_por_agua,4
+2022-10-01,2022,10,VICALVARO,incidentes_diversos,10
+2022-10-01,2022,10,VICALVARO,salidas_sin_intervencion,7
+2022-10-01,2022,10,VICALVARO,servicios_varios,1
+2022-10-01,2022,10,VICALVARO,total,50
+2022-10-01,2022,10,SAN BLAS,fuegos,9
+2022-10-01,2022,10,SAN BLAS,danos_en_construccion,5
+2022-10-01,2022,10,SAN BLAS,salvamentos_y_rescates,27
+2022-10-01,2022,10,SAN BLAS,danos_por_agua,5
+2022-10-01,2022,10,SAN BLAS,incidentes_diversos,18
+2022-10-01,2022,10,SAN BLAS,salidas_sin_intervencion,15
+2022-10-01,2022,10,SAN BLAS,servicios_varios,10
+2022-10-01,2022,10,SAN BLAS,total,89
+2022-10-01,2022,10,BARAJAS,fuegos,2
+2022-10-01,2022,10,BARAJAS,danos_en_construccion,1
+2022-10-01,2022,10,BARAJAS,salvamentos_y_rescates,5
+2022-10-01,2022,10,BARAJAS,danos_por_agua,5
+2022-10-01,2022,10,BARAJAS,incidentes_diversos,15
+2022-10-01,2022,10,BARAJAS,salidas_sin_intervencion,8
+2022-10-01,2022,10,BARAJAS,servicios_varios,4
+2022-10-01,2022,10,BARAJAS,total,40
+2022-10-01,2022,10,FUERA TERMINO MUNICIPAL,fuegos,3
+2022-10-01,2022,10,FUERA TERMINO MUNICIPAL,danos_en_construccion,0
+2022-10-01,2022,10,FUERA TERMINO MUNICIPAL,salvamentos_y_rescates,0
+2022-10-01,2022,10,FUERA TERMINO MUNICIPAL,danos_por_agua,0
+2022-10-01,2022,10,FUERA TERMINO MUNICIPAL,incidentes_diversos,1
+2022-10-01,2022,10,FUERA TERMINO MUNICIPAL,salidas_sin_intervencion,3
+2022-10-01,2022,10,FUERA TERMINO MUNICIPAL,servicios_varios,3
+2022-10-01,2022,10,FUERA TERMINO MUNICIPAL,total,10
+2022-09-01,2022,09,CENTRO,fuegos,37
+2022-09-01,2022,09,CENTRO,danos_en_construccion,19
+2022-09-01,2022,09,CENTRO,salvamentos_y_rescates,39
+2022-09-01,2022,09,CENTRO,danos_por_agua,17
+2022-09-01,2022,09,CENTRO,incidentes_diversos,35
+2022-09-01,2022,09,CENTRO,salidas_sin_intervencion,65
+2022-09-01,2022,09,CENTRO,servicios_varios,15
+2022-09-01,2022,09,CENTRO,total,227
+2022-09-01,2022,09,ARGANZUELA,fuegos,16
+2022-09-01,2022,09,ARGANZUELA,danos_en_construccion,8
+2022-09-01,2022,09,ARGANZUELA,salvamentos_y_rescates,29
+2022-09-01,2022,09,ARGANZUELA,danos_por_agua,9
+2022-09-01,2022,09,ARGANZUELA,incidentes_diversos,33
+2022-09-01,2022,09,ARGANZUELA,salidas_sin_intervencion,23
+2022-09-01,2022,09,ARGANZUELA,servicios_varios,2
+2022-09-01,2022,09,ARGANZUELA,total,120
+2022-09-01,2022,09,RETIRO,fuegos,7
+2022-09-01,2022,09,RETIRO,danos_en_construccion,7
+2022-09-01,2022,09,RETIRO,salvamentos_y_rescates,15
+2022-09-01,2022,09,RETIRO,danos_por_agua,7
+2022-09-01,2022,09,RETIRO,incidentes_diversos,30
+2022-09-01,2022,09,RETIRO,salidas_sin_intervencion,14
+2022-09-01,2022,09,RETIRO,servicios_varios,2
+2022-09-01,2022,09,RETIRO,total,82
+2022-09-01,2022,09,SALAMANCA,fuegos,17
+2022-09-01,2022,09,SALAMANCA,danos_en_construccion,16
+2022-09-01,2022,09,SALAMANCA,salvamentos_y_rescates,27
+2022-09-01,2022,09,SALAMANCA,danos_por_agua,9
+2022-09-01,2022,09,SALAMANCA,incidentes_diversos,29
+2022-09-01,2022,09,SALAMANCA,salidas_sin_intervencion,32
+2022-09-01,2022,09,SALAMANCA,servicios_varios,7
+2022-09-01,2022,09,SALAMANCA,total,137
+2022-09-01,2022,09,CHAMARTIN,fuegos,27
+2022-09-01,2022,09,CHAMARTIN,danos_en_construccion,5
+2022-09-01,2022,09,CHAMARTIN,salvamentos_y_rescates,27
+2022-09-01,2022,09,CHAMARTIN,danos_por_agua,7
+2022-09-01,2022,09,CHAMARTIN,incidentes_diversos,40
+2022-09-01,2022,09,CHAMARTIN,salidas_sin_intervencion,23
+2022-09-01,2022,09,CHAMARTIN,servicios_varios,10
+2022-09-01,2022,09,CHAMARTIN,total,139
+2022-09-01,2022,09,TETUAN,fuegos,9
+2022-09-01,2022,09,TETUAN,danos_en_construccion,11
+2022-09-01,2022,09,TETUAN,salvamentos_y_rescates,33
+2022-09-01,2022,09,TETUAN,danos_por_agua,12
+2022-09-01,2022,09,TETUAN,incidentes_diversos,24
+2022-09-01,2022,09,TETUAN,salidas_sin_intervencion,25
+2022-09-01,2022,09,TETUAN,servicios_varios,3
+2022-09-01,2022,09,TETUAN,total,117
+2022-09-01,2022,09,CHAMBERI,fuegos,10
+2022-09-01,2022,09,CHAMBERI,danos_en_construccion,13
+2022-09-01,2022,09,CHAMBERI,salvamentos_y_rescates,31
+2022-09-01,2022,09,CHAMBERI,danos_por_agua,6
+2022-09-01,2022,09,CHAMBERI,incidentes_diversos,21
+2022-09-01,2022,09,CHAMBERI,salidas_sin_intervencion,24
+2022-09-01,2022,09,CHAMBERI,servicios_varios,4
+2022-09-01,2022,09,CHAMBERI,total,109
+2022-09-01,2022,09,FUENCARRAL,fuegos,24
+2022-09-01,2022,09,FUENCARRAL,danos_en_construccion,1
+2022-09-01,2022,09,FUENCARRAL,salvamentos_y_rescates,25
+2022-09-01,2022,09,FUENCARRAL,danos_por_agua,14
+2022-09-01,2022,09,FUENCARRAL,incidentes_diversos,43
+2022-09-01,2022,09,FUENCARRAL,salidas_sin_intervencion,23
+2022-09-01,2022,09,FUENCARRAL,servicios_varios,9
+2022-09-01,2022,09,FUENCARRAL,total,139
+2022-09-01,2022,09,MONCLOA,fuegos,13
+2022-09-01,2022,09,MONCLOA,danos_en_construccion,3
+2022-09-01,2022,09,MONCLOA,salvamentos_y_rescates,27
+2022-09-01,2022,09,MONCLOA,danos_por_agua,8
+2022-09-01,2022,09,MONCLOA,incidentes_diversos,32
+2022-09-01,2022,09,MONCLOA,salidas_sin_intervencion,23
+2022-09-01,2022,09,MONCLOA,servicios_varios,6
+2022-09-01,2022,09,MONCLOA,total,112
+2022-09-01,2022,09,LATINA,fuegos,22
+2022-09-01,2022,09,LATINA,danos_en_construccion,6
+2022-09-01,2022,09,LATINA,salvamentos_y_rescates,34
+2022-09-01,2022,09,LATINA,danos_por_agua,9
+2022-09-01,2022,09,LATINA,incidentes_diversos,32
+2022-09-01,2022,09,LATINA,salidas_sin_intervencion,22
+2022-09-01,2022,09,LATINA,servicios_varios,10
+2022-09-01,2022,09,LATINA,total,135
+2022-09-01,2022,09,CARABANCHEL,fuegos,37
+2022-09-01,2022,09,CARABANCHEL,danos_en_construccion,8
+2022-09-01,2022,09,CARABANCHEL,salvamentos_y_rescates,28
+2022-09-01,2022,09,CARABANCHEL,danos_por_agua,16
+2022-09-01,2022,09,CARABANCHEL,incidentes_diversos,32
+2022-09-01,2022,09,CARABANCHEL,salidas_sin_intervencion,30
+2022-09-01,2022,09,CARABANCHEL,servicios_varios,6
+2022-09-01,2022,09,CARABANCHEL,total,157
+2022-09-01,2022,09,USERA,fuegos,15
+2022-09-01,2022,09,USERA,danos_en_construccion,5
+2022-09-01,2022,09,USERA,salvamentos_y_rescates,22
+2022-09-01,2022,09,USERA,danos_por_agua,7
+2022-09-01,2022,09,USERA,incidentes_diversos,26
+2022-09-01,2022,09,USERA,salidas_sin_intervencion,18
+2022-09-01,2022,09,USERA,servicios_varios,2
+2022-09-01,2022,09,USERA,total,95
+2022-09-01,2022,09,PUENTE VALLECAS,fuegos,26
+2022-09-01,2022,09,PUENTE VALLECAS,danos_en_construccion,9
+2022-09-01,2022,09,PUENTE VALLECAS,salvamentos_y_rescates,31
+2022-09-01,2022,09,PUENTE VALLECAS,danos_por_agua,7
+2022-09-01,2022,09,PUENTE VALLECAS,incidentes_diversos,37
+2022-09-01,2022,09,PUENTE VALLECAS,salidas_sin_intervencion,25
+2022-09-01,2022,09,PUENTE VALLECAS,servicios_varios,2
+2022-09-01,2022,09,PUENTE VALLECAS,total,137
+2022-09-01,2022,09,MORATALAZ,fuegos,6
+2022-09-01,2022,09,MORATALAZ,danos_en_construccion,4
+2022-09-01,2022,09,MORATALAZ,salvamentos_y_rescates,16
+2022-09-01,2022,09,MORATALAZ,danos_por_agua,4
+2022-09-01,2022,09,MORATALAZ,incidentes_diversos,19
+2022-09-01,2022,09,MORATALAZ,salidas_sin_intervencion,12
+2022-09-01,2022,09,MORATALAZ,servicios_varios,0
+2022-09-01,2022,09,MORATALAZ,total,61
+2022-09-01,2022,09,CIUDAD LINEAL,fuegos,11
+2022-09-01,2022,09,CIUDAD LINEAL,danos_en_construccion,8
+2022-09-01,2022,09,CIUDAD LINEAL,salvamentos_y_rescates,30
+2022-09-01,2022,09,CIUDAD LINEAL,danos_por_agua,6
+2022-09-01,2022,09,CIUDAD LINEAL,incidentes_diversos,36
+2022-09-01,2022,09,CIUDAD LINEAL,salidas_sin_intervencion,24
+2022-09-01,2022,09,CIUDAD LINEAL,servicios_varios,0
+2022-09-01,2022,09,CIUDAD LINEAL,total,115
+2022-09-01,2022,09,HORTALEZA,fuegos,8
+2022-09-01,2022,09,HORTALEZA,danos_en_construccion,3
+2022-09-01,2022,09,HORTALEZA,salvamentos_y_rescates,21
+2022-09-01,2022,09,HORTALEZA,danos_por_agua,12
+2022-09-01,2022,09,HORTALEZA,incidentes_diversos,30
+2022-09-01,2022,09,HORTALEZA,salidas_sin_intervencion,16
+2022-09-01,2022,09,HORTALEZA,servicios_varios,2
+2022-09-01,2022,09,HORTALEZA,total,92
+2022-09-01,2022,09,VILLAVERDE,fuegos,44
+2022-09-01,2022,09,VILLAVERDE,danos_en_construccion,2
+2022-09-01,2022,09,VILLAVERDE,salvamentos_y_rescates,14
+2022-09-01,2022,09,VILLAVERDE,danos_por_agua,5
+2022-09-01,2022,09,VILLAVERDE,incidentes_diversos,24
+2022-09-01,2022,09,VILLAVERDE,salidas_sin_intervencion,37
+2022-09-01,2022,09,VILLAVERDE,servicios_varios,3
+2022-09-01,2022,09,VILLAVERDE,total,129
+2022-09-01,2022,09,VILLA DE VALLECAS,fuegos,33
+2022-09-01,2022,09,VILLA DE VALLECAS,danos_en_construccion,3
+2022-09-01,2022,09,VILLA DE VALLECAS,salvamentos_y_rescates,14
+2022-09-01,2022,09,VILLA DE VALLECAS,danos_por_agua,4
+2022-09-01,2022,09,VILLA DE VALLECAS,incidentes_diversos,12
+2022-09-01,2022,09,VILLA DE VALLECAS,salidas_sin_intervencion,12
+2022-09-01,2022,09,VILLA DE VALLECAS,servicios_varios,3
+2022-09-01,2022,09,VILLA DE VALLECAS,total,81
+2022-09-01,2022,09,VICALVARO,fuegos,13
+2022-09-01,2022,09,VICALVARO,danos_en_construccion,1
+2022-09-01,2022,09,VICALVARO,salvamentos_y_rescates,6
+2022-09-01,2022,09,VICALVARO,danos_por_agua,3
+2022-09-01,2022,09,VICALVARO,incidentes_diversos,15
+2022-09-01,2022,09,VICALVARO,salidas_sin_intervencion,9
+2022-09-01,2022,09,VICALVARO,servicios_varios,1
+2022-09-01,2022,09,VICALVARO,total,48
+2022-09-01,2022,09,SAN BLAS,fuegos,11
+2022-09-01,2022,09,SAN BLAS,danos_en_construccion,4
+2022-09-01,2022,09,SAN BLAS,salvamentos_y_rescates,15
+2022-09-01,2022,09,SAN BLAS,danos_por_agua,5
+2022-09-01,2022,09,SAN BLAS,incidentes_diversos,29
+2022-09-01,2022,09,SAN BLAS,salidas_sin_intervencion,23
+2022-09-01,2022,09,SAN BLAS,servicios_varios,4
+2022-09-01,2022,09,SAN BLAS,total,91
+2022-09-01,2022,09,BARAJAS,fuegos,1
+2022-09-01,2022,09,BARAJAS,danos_en_construccion,4
+2022-09-01,2022,09,BARAJAS,salvamentos_y_rescates,5
+2022-09-01,2022,09,BARAJAS,danos_por_agua,7
+2022-09-01,2022,09,BARAJAS,incidentes_diversos,10
+2022-09-01,2022,09,BARAJAS,salidas_sin_intervencion,7
+2022-09-01,2022,09,BARAJAS,servicios_varios,6
+2022-09-01,2022,09,BARAJAS,total,40
+2022-09-01,2022,09,FUERA TERMINO MUNICIPAL,fuegos,5
+2022-09-01,2022,09,FUERA TERMINO MUNICIPAL,danos_en_construccion,0
+2022-09-01,2022,09,FUERA TERMINO MUNICIPAL,salvamentos_y_rescates,2
+2022-09-01,2022,09,FUERA TERMINO MUNICIPAL,danos_por_agua,1
+2022-09-01,2022,09,FUERA TERMINO MUNICIPAL,incidentes_diversos,2
+2022-09-01,2022,09,FUERA TERMINO MUNICIPAL,salidas_sin_intervencion,1
+2022-09-01,2022,09,FUERA TERMINO MUNICIPAL,servicios_varios,0
+2022-09-01,2022,09,FUERA TERMINO MUNICIPAL,total,11
+2022-08-01,2022,08,CENTRO,fuegos,45
+2022-08-01,2022,08,CENTRO,danos_en_construccion,10
+2022-08-01,2022,08,CENTRO,salvamentos_y_rescates,58
+2022-08-01,2022,08,CENTRO,danos_por_agua,28
+2022-08-01,2022,08,CENTRO,incidentes_diversos,38
+2022-08-01,2022,08,CENTRO,salidas_sin_intervencion,49
+2022-08-01,2022,08,CENTRO,servicios_varios,6
+2022-08-01,2022,08,CENTRO,total,234
+2022-08-01,2022,08,ARGANZUELA,fuegos,15
+2022-08-01,2022,08,ARGANZUELA,danos_en_construccion,4
+2022-08-01,2022,08,ARGANZUELA,salvamentos_y_rescates,20
+2022-08-01,2022,08,ARGANZUELA,danos_por_agua,17
+2022-08-01,2022,08,ARGANZUELA,incidentes_diversos,39
+2022-08-01,2022,08,ARGANZUELA,salidas_sin_intervencion,19
+2022-08-01,2022,08,ARGANZUELA,servicios_varios,2
+2022-08-01,2022,08,ARGANZUELA,total,116
+2022-08-01,2022,08,RETIRO,fuegos,5
+2022-08-01,2022,08,RETIRO,danos_en_construccion,9
+2022-08-01,2022,08,RETIRO,salvamentos_y_rescates,28
+2022-08-01,2022,08,RETIRO,danos_por_agua,11
+2022-08-01,2022,08,RETIRO,incidentes_diversos,27
+2022-08-01,2022,08,RETIRO,salidas_sin_intervencion,13
+2022-08-01,2022,08,RETIRO,servicios_varios,0
+2022-08-01,2022,08,RETIRO,total,93
+2022-08-01,2022,08,SALAMANCA,fuegos,12
+2022-08-01,2022,08,SALAMANCA,danos_en_construccion,11
+2022-08-01,2022,08,SALAMANCA,salvamentos_y_rescates,25
+2022-08-01,2022,08,SALAMANCA,danos_por_agua,15
+2022-08-01,2022,08,SALAMANCA,incidentes_diversos,14
+2022-08-01,2022,08,SALAMANCA,salidas_sin_intervencion,19
+2022-08-01,2022,08,SALAMANCA,servicios_varios,3
+2022-08-01,2022,08,SALAMANCA,total,99
+2022-08-01,2022,08,CHAMARTIN,fuegos,18
+2022-08-01,2022,08,CHAMARTIN,danos_en_construccion,7
+2022-08-01,2022,08,CHAMARTIN,salvamentos_y_rescates,28
+2022-08-01,2022,08,CHAMARTIN,danos_por_agua,6
+2022-08-01,2022,08,CHAMARTIN,incidentes_diversos,30
+2022-08-01,2022,08,CHAMARTIN,salidas_sin_intervencion,13
+2022-08-01,2022,08,CHAMARTIN,servicios_varios,4
+2022-08-01,2022,08,CHAMARTIN,total,106
+2022-08-01,2022,08,TETUAN,fuegos,17
+2022-08-01,2022,08,TETUAN,danos_en_construccion,8
+2022-08-01,2022,08,TETUAN,salvamentos_y_rescates,39
+2022-08-01,2022,08,TETUAN,danos_por_agua,13
+2022-08-01,2022,08,TETUAN,incidentes_diversos,24
+2022-08-01,2022,08,TETUAN,salidas_sin_intervencion,15
+2022-08-01,2022,08,TETUAN,servicios_varios,7
+2022-08-01,2022,08,TETUAN,total,123
+2022-08-01,2022,08,CHAMBERI,fuegos,17
+2022-08-01,2022,08,CHAMBERI,danos_en_construccion,4
+2022-08-01,2022,08,CHAMBERI,salvamentos_y_rescates,40
+2022-08-01,2022,08,CHAMBERI,danos_por_agua,16
+2022-08-01,2022,08,CHAMBERI,incidentes_diversos,25
+2022-08-01,2022,08,CHAMBERI,salidas_sin_intervencion,18
+2022-08-01,2022,08,CHAMBERI,servicios_varios,1
+2022-08-01,2022,08,CHAMBERI,total,121
+2022-08-01,2022,08,FUENCARRAL,fuegos,18
+2022-08-01,2022,08,FUENCARRAL,danos_en_construccion,5
+2022-08-01,2022,08,FUENCARRAL,salvamentos_y_rescates,34
+2022-08-01,2022,08,FUENCARRAL,danos_por_agua,14
+2022-08-01,2022,08,FUENCARRAL,incidentes_diversos,30
+2022-08-01,2022,08,FUENCARRAL,salidas_sin_intervencion,25
+2022-08-01,2022,08,FUENCARRAL,servicios_varios,1
+2022-08-01,2022,08,FUENCARRAL,total,127
+2022-08-01,2022,08,MONCLOA,fuegos,10
+2022-08-01,2022,08,MONCLOA,danos_en_construccion,3
+2022-08-01,2022,08,MONCLOA,salvamentos_y_rescates,25
+2022-08-01,2022,08,MONCLOA,danos_por_agua,8
+2022-08-01,2022,08,MONCLOA,incidentes_diversos,30
+2022-08-01,2022,08,MONCLOA,salidas_sin_intervencion,26
+2022-08-01,2022,08,MONCLOA,servicios_varios,4
+2022-08-01,2022,08,MONCLOA,total,106
+2022-08-01,2022,08,LATINA,fuegos,25
+2022-08-01,2022,08,LATINA,danos_en_construccion,2
+2022-08-01,2022,08,LATINA,salvamentos_y_rescates,39
+2022-08-01,2022,08,LATINA,danos_por_agua,20
+2022-08-01,2022,08,LATINA,incidentes_diversos,37
+2022-08-01,2022,08,LATINA,salidas_sin_intervencion,31
+2022-08-01,2022,08,LATINA,servicios_varios,2
+2022-08-01,2022,08,LATINA,total,156
+2022-08-01,2022,08,CARABANCHEL,fuegos,39
+2022-08-01,2022,08,CARABANCHEL,danos_en_construccion,8
+2022-08-01,2022,08,CARABANCHEL,salvamentos_y_rescates,52
+2022-08-01,2022,08,CARABANCHEL,danos_por_agua,14
+2022-08-01,2022,08,CARABANCHEL,incidentes_diversos,34
+2022-08-01,2022,08,CARABANCHEL,salidas_sin_intervencion,24
+2022-08-01,2022,08,CARABANCHEL,servicios_varios,0
+2022-08-01,2022,08,CARABANCHEL,total,171
+2022-08-01,2022,08,USERA,fuegos,25
+2022-08-01,2022,08,USERA,danos_en_construccion,5
+2022-08-01,2022,08,USERA,salvamentos_y_rescates,20
+2022-08-01,2022,08,USERA,danos_por_agua,2
+2022-08-01,2022,08,USERA,incidentes_diversos,24
+2022-08-01,2022,08,USERA,salidas_sin_intervencion,18
+2022-08-01,2022,08,USERA,servicios_varios,1
+2022-08-01,2022,08,USERA,total,95
+2022-08-01,2022,08,PUENTE VALLECAS,fuegos,34
+2022-08-01,2022,08,PUENTE VALLECAS,danos_en_construccion,8
+2022-08-01,2022,08,PUENTE VALLECAS,salvamentos_y_rescates,37
+2022-08-01,2022,08,PUENTE VALLECAS,danos_por_agua,5
+2022-08-01,2022,08,PUENTE VALLECAS,incidentes_diversos,48
+2022-08-01,2022,08,PUENTE VALLECAS,salidas_sin_intervencion,24
+2022-08-01,2022,08,PUENTE VALLECAS,servicios_varios,3
+2022-08-01,2022,08,PUENTE VALLECAS,total,159
+2022-08-01,2022,08,MORATALAZ,fuegos,13
+2022-08-01,2022,08,MORATALAZ,danos_en_construccion,1
+2022-08-01,2022,08,MORATALAZ,salvamentos_y_rescates,15
+2022-08-01,2022,08,MORATALAZ,danos_por_agua,4
+2022-08-01,2022,08,MORATALAZ,incidentes_diversos,16
+2022-08-01,2022,08,MORATALAZ,salidas_sin_intervencion,7
+2022-08-01,2022,08,MORATALAZ,servicios_varios,0
+2022-08-01,2022,08,MORATALAZ,total,56
+2022-08-01,2022,08,CIUDAD LINEAL,fuegos,14
+2022-08-01,2022,08,CIUDAD LINEAL,danos_en_construccion,5
+2022-08-01,2022,08,CIUDAD LINEAL,salvamentos_y_rescates,37
+2022-08-01,2022,08,CIUDAD LINEAL,danos_por_agua,11
+2022-08-01,2022,08,CIUDAD LINEAL,incidentes_diversos,26
+2022-08-01,2022,08,CIUDAD LINEAL,salidas_sin_intervencion,24
+2022-08-01,2022,08,CIUDAD LINEAL,servicios_varios,2
+2022-08-01,2022,08,CIUDAD LINEAL,total,119
+2022-08-01,2022,08,HORTALEZA,fuegos,12
+2022-08-01,2022,08,HORTALEZA,danos_en_construccion,1
+2022-08-01,2022,08,HORTALEZA,salvamentos_y_rescates,25
+2022-08-01,2022,08,HORTALEZA,danos_por_agua,17
+2022-08-01,2022,08,HORTALEZA,incidentes_diversos,24
+2022-08-01,2022,08,HORTALEZA,salidas_sin_intervencion,15
+2022-08-01,2022,08,HORTALEZA,servicios_varios,5
+2022-08-01,2022,08,HORTALEZA,total,99
+2022-08-01,2022,08,VILLAVERDE,fuegos,35
+2022-08-01,2022,08,VILLAVERDE,danos_en_construccion,3
+2022-08-01,2022,08,VILLAVERDE,salvamentos_y_rescates,29
+2022-08-01,2022,08,VILLAVERDE,danos_por_agua,9
+2022-08-01,2022,08,VILLAVERDE,incidentes_diversos,28
+2022-08-01,2022,08,VILLAVERDE,salidas_sin_intervencion,16
+2022-08-01,2022,08,VILLAVERDE,servicios_varios,2
+2022-08-01,2022,08,VILLAVERDE,total,122
+2022-08-01,2022,08,VILLA DE VALLECAS,fuegos,44
+2022-08-01,2022,08,VILLA DE VALLECAS,danos_en_construccion,3
+2022-08-01,2022,08,VILLA DE VALLECAS,salvamentos_y_rescates,18
+2022-08-01,2022,08,VILLA DE VALLECAS,danos_por_agua,6
+2022-08-01,2022,08,VILLA DE VALLECAS,incidentes_diversos,14
+2022-08-01,2022,08,VILLA DE VALLECAS,salidas_sin_intervencion,25
+2022-08-01,2022,08,VILLA DE VALLECAS,servicios_varios,2
+2022-08-01,2022,08,VILLA DE VALLECAS,total,112
+2022-08-01,2022,08,VICALVARO,fuegos,16
+2022-08-01,2022,08,VICALVARO,danos_en_construccion,1
+2022-08-01,2022,08,VICALVARO,salvamentos_y_rescates,9
+2022-08-01,2022,08,VICALVARO,danos_por_agua,3
+2022-08-01,2022,08,VICALVARO,incidentes_diversos,5
+2022-08-01,2022,08,VICALVARO,salidas_sin_intervencion,15
+2022-08-01,2022,08,VICALVARO,servicios_varios,1
+2022-08-01,2022,08,VICALVARO,total,50
+2022-08-01,2022,08,SAN BLAS,fuegos,18
+2022-08-01,2022,08,SAN BLAS,danos_en_construccion,5
+2022-08-01,2022,08,SAN BLAS,salvamentos_y_rescates,30
+2022-08-01,2022,08,SAN BLAS,danos_por_agua,8
+2022-08-01,2022,08,SAN BLAS,incidentes_diversos,19
+2022-08-01,2022,08,SAN BLAS,salidas_sin_intervencion,21
+2022-08-01,2022,08,SAN BLAS,servicios_varios,2
+2022-08-01,2022,08,SAN BLAS,total,103
+2022-08-01,2022,08,BARAJAS,fuegos,6
+2022-08-01,2022,08,BARAJAS,danos_en_construccion,2
+2022-08-01,2022,08,BARAJAS,salvamentos_y_rescates,6
+2022-08-01,2022,08,BARAJAS,danos_por_agua,7
+2022-08-01,2022,08,BARAJAS,incidentes_diversos,7
+2022-08-01,2022,08,BARAJAS,salidas_sin_intervencion,10
+2022-08-01,2022,08,BARAJAS,servicios_varios,0
+2022-08-01,2022,08,BARAJAS,total,38
+2022-08-01,2022,08,FUERA TERMINO MUNICIPAL,fuegos,2
+2022-08-01,2022,08,FUERA TERMINO MUNICIPAL,danos_en_construccion,0
+2022-08-01,2022,08,FUERA TERMINO MUNICIPAL,salvamentos_y_rescates,2
+2022-08-01,2022,08,FUERA TERMINO MUNICIPAL,danos_por_agua,0
+2022-08-01,2022,08,FUERA TERMINO MUNICIPAL,incidentes_diversos,2
+2022-08-01,2022,08,FUERA TERMINO MUNICIPAL,salidas_sin_intervencion,3
+2022-08-01,2022,08,FUERA TERMINO MUNICIPAL,servicios_varios,1
+2022-08-01,2022,08,FUERA TERMINO MUNICIPAL,total,10
+2022-07-01,2022,07,CENTRO,fuegos,51
+2022-07-01,2022,07,CENTRO,danos_en_construccion,16
+2022-07-01,2022,07,CENTRO,salvamentos_y_rescates,58
+2022-07-01,2022,07,CENTRO,danos_por_agua,23
+2022-07-01,2022,07,CENTRO,incidentes_diversos,38
+2022-07-01,2022,07,CENTRO,salidas_sin_intervencion,69
+2022-07-01,2022,07,CENTRO,servicios_varios,8
+2022-07-01,2022,07,CENTRO,total,263
+2022-07-01,2022,07,ARGANZUELA,fuegos,19
+2022-07-01,2022,07,ARGANZUELA,danos_en_construccion,7
+2022-07-01,2022,07,ARGANZUELA,salvamentos_y_rescates,26
+2022-07-01,2022,07,ARGANZUELA,danos_por_agua,11
+2022-07-01,2022,07,ARGANZUELA,incidentes_diversos,28
+2022-07-01,2022,07,ARGANZUELA,salidas_sin_intervencion,26
+2022-07-01,2022,07,ARGANZUELA,servicios_varios,2
+2022-07-01,2022,07,ARGANZUELA,total,119
+2022-07-01,2022,07,RETIRO,fuegos,12
+2022-07-01,2022,07,RETIRO,danos_en_construccion,6
+2022-07-01,2022,07,RETIRO,salvamentos_y_rescates,20
+2022-07-01,2022,07,RETIRO,danos_por_agua,8
+2022-07-01,2022,07,RETIRO,incidentes_diversos,24
+2022-07-01,2022,07,RETIRO,salidas_sin_intervencion,30
+2022-07-01,2022,07,RETIRO,servicios_varios,3
+2022-07-01,2022,07,RETIRO,total,103
+2022-07-01,2022,07,SALAMANCA,fuegos,18
+2022-07-01,2022,07,SALAMANCA,danos_en_construccion,10
+2022-07-01,2022,07,SALAMANCA,salvamentos_y_rescates,31
+2022-07-01,2022,07,SALAMANCA,danos_por_agua,12
+2022-07-01,2022,07,SALAMANCA,incidentes_diversos,31
+2022-07-01,2022,07,SALAMANCA,salidas_sin_intervencion,23
+2022-07-01,2022,07,SALAMANCA,servicios_varios,8
+2022-07-01,2022,07,SALAMANCA,total,133
+2022-07-01,2022,07,CHAMARTIN,fuegos,17
+2022-07-01,2022,07,CHAMARTIN,danos_en_construccion,9
+2022-07-01,2022,07,CHAMARTIN,salvamentos_y_rescates,26
+2022-07-01,2022,07,CHAMARTIN,danos_por_agua,9
+2022-07-01,2022,07,CHAMARTIN,incidentes_diversos,43
+2022-07-01,2022,07,CHAMARTIN,salidas_sin_intervencion,33
+2022-07-01,2022,07,CHAMARTIN,servicios_varios,5
+2022-07-01,2022,07,CHAMARTIN,total,142
+2022-07-01,2022,07,TETUAN,fuegos,23
+2022-07-01,2022,07,TETUAN,danos_en_construccion,11
+2022-07-01,2022,07,TETUAN,salvamentos_y_rescates,30
+2022-07-01,2022,07,TETUAN,danos_por_agua,19
+2022-07-01,2022,07,TETUAN,incidentes_diversos,25
+2022-07-01,2022,07,TETUAN,salidas_sin_intervencion,31
+2022-07-01,2022,07,TETUAN,servicios_varios,1
+2022-07-01,2022,07,TETUAN,total,140
+2022-07-01,2022,07,CHAMBERI,fuegos,15
+2022-07-01,2022,07,CHAMBERI,danos_en_construccion,6
+2022-07-01,2022,07,CHAMBERI,salvamentos_y_rescates,37
+2022-07-01,2022,07,CHAMBERI,danos_por_agua,20
+2022-07-01,2022,07,CHAMBERI,incidentes_diversos,50
+2022-07-01,2022,07,CHAMBERI,salidas_sin_intervencion,40
+2022-07-01,2022,07,CHAMBERI,servicios_varios,4
+2022-07-01,2022,07,CHAMBERI,total,172
+2022-07-01,2022,07,FUENCARRAL,fuegos,39
+2022-07-01,2022,07,FUENCARRAL,danos_en_construccion,6
+2022-07-01,2022,07,FUENCARRAL,salvamentos_y_rescates,26
+2022-07-01,2022,07,FUENCARRAL,danos_por_agua,12
+2022-07-01,2022,07,FUENCARRAL,incidentes_diversos,35
+2022-07-01,2022,07,FUENCARRAL,salidas_sin_intervencion,29
+2022-07-01,2022,07,FUENCARRAL,servicios_varios,12
+2022-07-01,2022,07,FUENCARRAL,total,159
+2022-07-01,2022,07,MONCLOA,fuegos,26
+2022-07-01,2022,07,MONCLOA,danos_en_construccion,3
+2022-07-01,2022,07,MONCLOA,salvamentos_y_rescates,30
+2022-07-01,2022,07,MONCLOA,danos_por_agua,10
+2022-07-01,2022,07,MONCLOA,incidentes_diversos,31
+2022-07-01,2022,07,MONCLOA,salidas_sin_intervencion,26
+2022-07-01,2022,07,MONCLOA,servicios_varios,4
+2022-07-01,2022,07,MONCLOA,total,130
+2022-07-01,2022,07,LATINA,fuegos,27
+2022-07-01,2022,07,LATINA,danos_en_construccion,11
+2022-07-01,2022,07,LATINA,salvamentos_y_rescates,42
+2022-07-01,2022,07,LATINA,danos_por_agua,11
+2022-07-01,2022,07,LATINA,incidentes_diversos,44
+2022-07-01,2022,07,LATINA,salidas_sin_intervencion,33
+2022-07-01,2022,07,LATINA,servicios_varios,6
+2022-07-01,2022,07,LATINA,total,174
+2022-07-01,2022,07,CARABANCHEL,fuegos,47
+2022-07-01,2022,07,CARABANCHEL,danos_en_construccion,10
+2022-07-01,2022,07,CARABANCHEL,salvamentos_y_rescates,38
+2022-07-01,2022,07,CARABANCHEL,danos_por_agua,16
+2022-07-01,2022,07,CARABANCHEL,incidentes_diversos,42
+2022-07-01,2022,07,CARABANCHEL,salidas_sin_intervencion,39
+2022-07-01,2022,07,CARABANCHEL,servicios_varios,5
+2022-07-01,2022,07,CARABANCHEL,total,197
+2022-07-01,2022,07,USERA,fuegos,32
+2022-07-01,2022,07,USERA,danos_en_construccion,0
+2022-07-01,2022,07,USERA,salvamentos_y_rescates,24
+2022-07-01,2022,07,USERA,danos_por_agua,7
+2022-07-01,2022,07,USERA,incidentes_diversos,14
+2022-07-01,2022,07,USERA,salidas_sin_intervencion,21
+2022-07-01,2022,07,USERA,servicios_varios,4
+2022-07-01,2022,07,USERA,total,102
+2022-07-01,2022,07,PUENTE VALLECAS,fuegos,34
+2022-07-01,2022,07,PUENTE VALLECAS,danos_en_construccion,9
+2022-07-01,2022,07,PUENTE VALLECAS,salvamentos_y_rescates,58
+2022-07-01,2022,07,PUENTE VALLECAS,danos_por_agua,12
+2022-07-01,2022,07,PUENTE VALLECAS,incidentes_diversos,38
+2022-07-01,2022,07,PUENTE VALLECAS,salidas_sin_intervencion,49
+2022-07-01,2022,07,PUENTE VALLECAS,servicios_varios,6
+2022-07-01,2022,07,PUENTE VALLECAS,total,206
+2022-07-01,2022,07,MORATALAZ,fuegos,9
+2022-07-01,2022,07,MORATALAZ,danos_en_construccion,3
+2022-07-01,2022,07,MORATALAZ,salvamentos_y_rescates,22
+2022-07-01,2022,07,MORATALAZ,danos_por_agua,2
+2022-07-01,2022,07,MORATALAZ,incidentes_diversos,26
+2022-07-01,2022,07,MORATALAZ,salidas_sin_intervencion,10
+2022-07-01,2022,07,MORATALAZ,servicios_varios,2
+2022-07-01,2022,07,MORATALAZ,total,74
+2022-07-01,2022,07,CIUDAD LINEAL,fuegos,37
+2022-07-01,2022,07,CIUDAD LINEAL,danos_en_construccion,8
+2022-07-01,2022,07,CIUDAD LINEAL,salvamentos_y_rescates,28
+2022-07-01,2022,07,CIUDAD LINEAL,danos_por_agua,7
+2022-07-01,2022,07,CIUDAD LINEAL,incidentes_diversos,38
+2022-07-01,2022,07,CIUDAD LINEAL,salidas_sin_intervencion,40
+2022-07-01,2022,07,CIUDAD LINEAL,servicios_varios,2
+2022-07-01,2022,07,CIUDAD LINEAL,total,160
+2022-07-01,2022,07,HORTALEZA,fuegos,22
+2022-07-01,2022,07,HORTALEZA,danos_en_construccion,6
+2022-07-01,2022,07,HORTALEZA,salvamentos_y_rescates,33
+2022-07-01,2022,07,HORTALEZA,danos_por_agua,13
+2022-07-01,2022,07,HORTALEZA,incidentes_diversos,35
+2022-07-01,2022,07,HORTALEZA,salidas_sin_intervencion,29
+2022-07-01,2022,07,HORTALEZA,servicios_varios,2
+2022-07-01,2022,07,HORTALEZA,total,140
+2022-07-01,2022,07,VILLAVERDE,fuegos,67
+2022-07-01,2022,07,VILLAVERDE,danos_en_construccion,1
+2022-07-01,2022,07,VILLAVERDE,salvamentos_y_rescates,22
+2022-07-01,2022,07,VILLAVERDE,danos_por_agua,9
+2022-07-01,2022,07,VILLAVERDE,incidentes_diversos,29
+2022-07-01,2022,07,VILLAVERDE,salidas_sin_intervencion,24
+2022-07-01,2022,07,VILLAVERDE,servicios_varios,2
+2022-07-01,2022,07,VILLAVERDE,total,154
+2022-07-01,2022,07,VILLA DE VALLECAS,fuegos,53
+2022-07-01,2022,07,VILLA DE VALLECAS,danos_en_construccion,6
+2022-07-01,2022,07,VILLA DE VALLECAS,salvamentos_y_rescates,16
+2022-07-01,2022,07,VILLA DE VALLECAS,danos_por_agua,7
+2022-07-01,2022,07,VILLA DE VALLECAS,incidentes_diversos,10
+2022-07-01,2022,07,VILLA DE VALLECAS,salidas_sin_intervencion,18
+2022-07-01,2022,07,VILLA DE VALLECAS,servicios_varios,4
+2022-07-01,2022,07,VILLA DE VALLECAS,total,114
+2022-07-01,2022,07,VICALVARO,fuegos,14
+2022-07-01,2022,07,VICALVARO,danos_en_construccion,2
+2022-07-01,2022,07,VICALVARO,salvamentos_y_rescates,8
+2022-07-01,2022,07,VICALVARO,danos_por_agua,3
+2022-07-01,2022,07,VICALVARO,incidentes_diversos,9
+2022-07-01,2022,07,VICALVARO,salidas_sin_intervencion,9
+2022-07-01,2022,07,VICALVARO,servicios_varios,0
+2022-07-01,2022,07,VICALVARO,total,45
+2022-07-01,2022,07,SAN BLAS,fuegos,18
+2022-07-01,2022,07,SAN BLAS,danos_en_construccion,2
+2022-07-01,2022,07,SAN BLAS,salvamentos_y_rescates,35
+2022-07-01,2022,07,SAN BLAS,danos_por_agua,8
+2022-07-01,2022,07,SAN BLAS,incidentes_diversos,20
+2022-07-01,2022,07,SAN BLAS,salidas_sin_intervencion,21
+2022-07-01,2022,07,SAN BLAS,servicios_varios,1
+2022-07-01,2022,07,SAN BLAS,total,105
+2022-07-01,2022,07,BARAJAS,fuegos,11
+2022-07-01,2022,07,BARAJAS,danos_en_construccion,0
+2022-07-01,2022,07,BARAJAS,salvamentos_y_rescates,9
+2022-07-01,2022,07,BARAJAS,danos_por_agua,3
+2022-07-01,2022,07,BARAJAS,incidentes_diversos,5
+2022-07-01,2022,07,BARAJAS,salidas_sin_intervencion,14
+2022-07-01,2022,07,BARAJAS,servicios_varios,8
+2022-07-01,2022,07,BARAJAS,total,50
+2022-07-01,2022,07,FUERA TERMINO MUNICIPAL,fuegos,5
+2022-07-01,2022,07,FUERA TERMINO MUNICIPAL,danos_en_construccion,0
+2022-07-01,2022,07,FUERA TERMINO MUNICIPAL,salvamentos_y_rescates,1
+2022-07-01,2022,07,FUERA TERMINO MUNICIPAL,danos_por_agua,0
+2022-07-01,2022,07,FUERA TERMINO MUNICIPAL,incidentes_diversos,1
+2022-07-01,2022,07,FUERA TERMINO MUNICIPAL,salidas_sin_intervencion,3
+2022-07-01,2022,07,FUERA TERMINO MUNICIPAL,servicios_varios,0
+2022-07-01,2022,07,FUERA TERMINO MUNICIPAL,total,10
+2022-06-01,2022,06,CENTRO,fuegos,52
+2022-06-01,2022,06,CENTRO,danos_en_construccion,27
+2022-06-01,2022,06,CENTRO,salvamentos_y_rescates,44
+2022-06-01,2022,06,CENTRO,danos_por_agua,19
+2022-06-01,2022,06,CENTRO,incidentes_diversos,48
+2022-06-01,2022,06,CENTRO,salidas_sin_intervencion,57
+2022-06-01,2022,06,CENTRO,servicios_varios,10
+2022-06-01,2022,06,CENTRO,total,257
+2022-06-01,2022,06,ARGANZUELA,fuegos,18
+2022-06-01,2022,06,ARGANZUELA,danos_en_construccion,6
+2022-06-01,2022,06,ARGANZUELA,salvamentos_y_rescates,35
+2022-06-01,2022,06,ARGANZUELA,danos_por_agua,13
+2022-06-01,2022,06,ARGANZUELA,incidentes_diversos,21
+2022-06-01,2022,06,ARGANZUELA,salidas_sin_intervencion,26
+2022-06-01,2022,06,ARGANZUELA,servicios_varios,8
+2022-06-01,2022,06,ARGANZUELA,total,127
+2022-06-01,2022,06,RETIRO,fuegos,5
+2022-06-01,2022,06,RETIRO,danos_en_construccion,4
+2022-06-01,2022,06,RETIRO,salvamentos_y_rescates,15
+2022-06-01,2022,06,RETIRO,danos_por_agua,4
+2022-06-01,2022,06,RETIRO,incidentes_diversos,16
+2022-06-01,2022,06,RETIRO,salidas_sin_intervencion,21
+2022-06-01,2022,06,RETIRO,servicios_varios,8
+2022-06-01,2022,06,RETIRO,total,73
+2022-06-01,2022,06,SALAMANCA,fuegos,30
+2022-06-01,2022,06,SALAMANCA,danos_en_construccion,12
+2022-06-01,2022,06,SALAMANCA,salvamentos_y_rescates,35
+2022-06-01,2022,06,SALAMANCA,danos_por_agua,10
+2022-06-01,2022,06,SALAMANCA,incidentes_diversos,12
+2022-06-01,2022,06,SALAMANCA,salidas_sin_intervencion,36
+2022-06-01,2022,06,SALAMANCA,servicios_varios,8
+2022-06-01,2022,06,SALAMANCA,total,143
+2022-06-01,2022,06,CHAMARTIN,fuegos,18
+2022-06-01,2022,06,CHAMARTIN,danos_en_construccion,7
+2022-06-01,2022,06,CHAMARTIN,salvamentos_y_rescates,21
+2022-06-01,2022,06,CHAMARTIN,danos_por_agua,6
+2022-06-01,2022,06,CHAMARTIN,incidentes_diversos,28
+2022-06-01,2022,06,CHAMARTIN,salidas_sin_intervencion,28
+2022-06-01,2022,06,CHAMARTIN,servicios_varios,2
+2022-06-01,2022,06,CHAMARTIN,total,110
+2022-06-01,2022,06,TETUAN,fuegos,17
+2022-06-01,2022,06,TETUAN,danos_en_construccion,10
+2022-06-01,2022,06,TETUAN,salvamentos_y_rescates,37
+2022-06-01,2022,06,TETUAN,danos_por_agua,13
+2022-06-01,2022,06,TETUAN,incidentes_diversos,17
+2022-06-01,2022,06,TETUAN,salidas_sin_intervencion,43
+2022-06-01,2022,06,TETUAN,servicios_varios,5
+2022-06-01,2022,06,TETUAN,total,142
+2022-06-01,2022,06,CHAMBERI,fuegos,19
+2022-06-01,2022,06,CHAMBERI,danos_en_construccion,12
+2022-06-01,2022,06,CHAMBERI,salvamentos_y_rescates,34
+2022-06-01,2022,06,CHAMBERI,danos_por_agua,9
+2022-06-01,2022,06,CHAMBERI,incidentes_diversos,15
+2022-06-01,2022,06,CHAMBERI,salidas_sin_intervencion,30
+2022-06-01,2022,06,CHAMBERI,servicios_varios,1
+2022-06-01,2022,06,CHAMBERI,total,120
+2022-06-01,2022,06,FUENCARRAL,fuegos,61
+2022-06-01,2022,06,FUENCARRAL,danos_en_construccion,4
+2022-06-01,2022,06,FUENCARRAL,salvamentos_y_rescates,41
+2022-06-01,2022,06,FUENCARRAL,danos_por_agua,7
+2022-06-01,2022,06,FUENCARRAL,incidentes_diversos,25
+2022-06-01,2022,06,FUENCARRAL,salidas_sin_intervencion,37
+2022-06-01,2022,06,FUENCARRAL,servicios_varios,6
+2022-06-01,2022,06,FUENCARRAL,total,181
+2022-06-01,2022,06,MONCLOA,fuegos,27
+2022-06-01,2022,06,MONCLOA,danos_en_construccion,6
+2022-06-01,2022,06,MONCLOA,salvamentos_y_rescates,21
+2022-06-01,2022,06,MONCLOA,danos_por_agua,3
+2022-06-01,2022,06,MONCLOA,incidentes_diversos,20
+2022-06-01,2022,06,MONCLOA,salidas_sin_intervencion,23
+2022-06-01,2022,06,MONCLOA,servicios_varios,8
+2022-06-01,2022,06,MONCLOA,total,108
+2022-06-01,2022,06,LATINA,fuegos,34
+2022-06-01,2022,06,LATINA,danos_en_construccion,12
+2022-06-01,2022,06,LATINA,salvamentos_y_rescates,33
+2022-06-01,2022,06,LATINA,danos_por_agua,9
+2022-06-01,2022,06,LATINA,incidentes_diversos,22
+2022-06-01,2022,06,LATINA,salidas_sin_intervencion,33
+2022-06-01,2022,06,LATINA,servicios_varios,18
+2022-06-01,2022,06,LATINA,total,161
+2022-06-01,2022,06,CARABANCHEL,fuegos,36
+2022-06-01,2022,06,CARABANCHEL,danos_en_construccion,8
+2022-06-01,2022,06,CARABANCHEL,salvamentos_y_rescates,46
+2022-06-01,2022,06,CARABANCHEL,danos_por_agua,11
+2022-06-01,2022,06,CARABANCHEL,incidentes_diversos,23
+2022-06-01,2022,06,CARABANCHEL,salidas_sin_intervencion,27
+2022-06-01,2022,06,CARABANCHEL,servicios_varios,4
+2022-06-01,2022,06,CARABANCHEL,total,155
+2022-06-01,2022,06,USERA,fuegos,27
+2022-06-01,2022,06,USERA,danos_en_construccion,1
+2022-06-01,2022,06,USERA,salvamentos_y_rescates,31
+2022-06-01,2022,06,USERA,danos_por_agua,9
+2022-06-01,2022,06,USERA,incidentes_diversos,14
+2022-06-01,2022,06,USERA,salidas_sin_intervencion,24
+2022-06-01,2022,06,USERA,servicios_varios,5
+2022-06-01,2022,06,USERA,total,111
+2022-06-01,2022,06,PUENTE VALLECAS,fuegos,37
+2022-06-01,2022,06,PUENTE VALLECAS,danos_en_construccion,8
+2022-06-01,2022,06,PUENTE VALLECAS,salvamentos_y_rescates,38
+2022-06-01,2022,06,PUENTE VALLECAS,danos_por_agua,12
+2022-06-01,2022,06,PUENTE VALLECAS,incidentes_diversos,26
+2022-06-01,2022,06,PUENTE VALLECAS,salidas_sin_intervencion,31
+2022-06-01,2022,06,PUENTE VALLECAS,servicios_varios,2
+2022-06-01,2022,06,PUENTE VALLECAS,total,154
+2022-06-01,2022,06,MORATALAZ,fuegos,10
+2022-06-01,2022,06,MORATALAZ,danos_en_construccion,2
+2022-06-01,2022,06,MORATALAZ,salvamentos_y_rescates,16
+2022-06-01,2022,06,MORATALAZ,danos_por_agua,4
+2022-06-01,2022,06,MORATALAZ,incidentes_diversos,14
+2022-06-01,2022,06,MORATALAZ,salidas_sin_intervencion,4
+2022-06-01,2022,06,MORATALAZ,servicios_varios,2
+2022-06-01,2022,06,MORATALAZ,total,52
+2022-06-01,2022,06,CIUDAD LINEAL,fuegos,32
+2022-06-01,2022,06,CIUDAD LINEAL,danos_en_construccion,9
+2022-06-01,2022,06,CIUDAD LINEAL,salvamentos_y_rescates,25
+2022-06-01,2022,06,CIUDAD LINEAL,danos_por_agua,12
+2022-06-01,2022,06,CIUDAD LINEAL,incidentes_diversos,29
+2022-06-01,2022,06,CIUDAD LINEAL,salidas_sin_intervencion,31
+2022-06-01,2022,06,CIUDAD LINEAL,servicios_varios,6
+2022-06-01,2022,06,CIUDAD LINEAL,total,144
+2022-06-01,2022,06,HORTALEZA,fuegos,47
+2022-06-01,2022,06,HORTALEZA,danos_en_construccion,7
+2022-06-01,2022,06,HORTALEZA,salvamentos_y_rescates,23
+2022-06-01,2022,06,HORTALEZA,danos_por_agua,8
+2022-06-01,2022,06,HORTALEZA,incidentes_diversos,35
+2022-06-01,2022,06,HORTALEZA,salidas_sin_intervencion,32
+2022-06-01,2022,06,HORTALEZA,servicios_varios,8
+2022-06-01,2022,06,HORTALEZA,total,160
+2022-06-01,2022,06,VILLAVERDE,fuegos,92
+2022-06-01,2022,06,VILLAVERDE,danos_en_construccion,1
+2022-06-01,2022,06,VILLAVERDE,salvamentos_y_rescates,26
+2022-06-01,2022,06,VILLAVERDE,danos_por_agua,8
+2022-06-01,2022,06,VILLAVERDE,incidentes_diversos,17
+2022-06-01,2022,06,VILLAVERDE,salidas_sin_intervencion,26
+2022-06-01,2022,06,VILLAVERDE,servicios_varios,10
+2022-06-01,2022,06,VILLAVERDE,total,180
+2022-06-01,2022,06,VILLA DE VALLECAS,fuegos,75
+2022-06-01,2022,06,VILLA DE VALLECAS,danos_en_construccion,5
+2022-06-01,2022,06,VILLA DE VALLECAS,salvamentos_y_rescates,19
+2022-06-01,2022,06,VILLA DE VALLECAS,danos_por_agua,3
+2022-06-01,2022,06,VILLA DE VALLECAS,incidentes_diversos,11
+2022-06-01,2022,06,VILLA DE VALLECAS,salidas_sin_intervencion,24
+2022-06-01,2022,06,VILLA DE VALLECAS,servicios_varios,7
+2022-06-01,2022,06,VILLA DE VALLECAS,total,144
+2022-06-01,2022,06,VICALVARO,fuegos,18
+2022-06-01,2022,06,VICALVARO,danos_en_construccion,3
+2022-06-01,2022,06,VICALVARO,salvamentos_y_rescates,8
+2022-06-01,2022,06,VICALVARO,danos_por_agua,6
+2022-06-01,2022,06,VICALVARO,incidentes_diversos,7
+2022-06-01,2022,06,VICALVARO,salidas_sin_intervencion,12
+2022-06-01,2022,06,VICALVARO,servicios_varios,2
+2022-06-01,2022,06,VICALVARO,total,56
+2022-06-01,2022,06,SAN BLAS,fuegos,16
+2022-06-01,2022,06,SAN BLAS,danos_en_construccion,5
+2022-06-01,2022,06,SAN BLAS,salvamentos_y_rescates,36
+2022-06-01,2022,06,SAN BLAS,danos_por_agua,3
+2022-06-01,2022,06,SAN BLAS,incidentes_diversos,24
+2022-06-01,2022,06,SAN BLAS,salidas_sin_intervencion,18
+2022-06-01,2022,06,SAN BLAS,servicios_varios,6
+2022-06-01,2022,06,SAN BLAS,total,108
+2022-06-01,2022,06,BARAJAS,fuegos,10
+2022-06-01,2022,06,BARAJAS,danos_en_construccion,0
+2022-06-01,2022,06,BARAJAS,salvamentos_y_rescates,3
+2022-06-01,2022,06,BARAJAS,danos_por_agua,1
+2022-06-01,2022,06,BARAJAS,incidentes_diversos,8
+2022-06-01,2022,06,BARAJAS,salidas_sin_intervencion,11
+2022-06-01,2022,06,BARAJAS,servicios_varios,5
+2022-06-01,2022,06,BARAJAS,total,38
+2022-06-01,2022,06,FUERA TERMINO MUNICIPAL,fuegos,3
+2022-06-01,2022,06,FUERA TERMINO MUNICIPAL,danos_en_construccion,0
+2022-06-01,2022,06,FUERA TERMINO MUNICIPAL,salvamentos_y_rescates,0
+2022-06-01,2022,06,FUERA TERMINO MUNICIPAL,danos_por_agua,0
+2022-06-01,2022,06,FUERA TERMINO MUNICIPAL,incidentes_diversos,2
+2022-06-01,2022,06,FUERA TERMINO MUNICIPAL,salidas_sin_intervencion,1
+2022-06-01,2022,06,FUERA TERMINO MUNICIPAL,servicios_varios,1
+2022-06-01,2022,06,FUERA TERMINO MUNICIPAL,total,7
+2022-05-01,2022,05,CENTRO,fuegos,46
+2022-05-01,2022,05,CENTRO,danos_en_construccion,21
+2022-05-01,2022,05,CENTRO,salvamentos_y_rescates,67
+2022-05-01,2022,05,CENTRO,danos_por_agua,9
+2022-05-01,2022,05,CENTRO,incidentes_diversos,48
+2022-05-01,2022,05,CENTRO,salidas_sin_intervencion,50
+2022-05-01,2022,05,CENTRO,servicios_varios,7
+2022-05-01,2022,05,CENTRO,total,248
+2022-05-01,2022,05,ARGANZUELA,fuegos,30
+2022-05-01,2022,05,ARGANZUELA,danos_en_construccion,7
+2022-05-01,2022,05,ARGANZUELA,salvamentos_y_rescates,22
+2022-05-01,2022,05,ARGANZUELA,danos_por_agua,6
+2022-05-01,2022,05,ARGANZUELA,incidentes_diversos,14
+2022-05-01,2022,05,ARGANZUELA,salidas_sin_intervencion,22
+2022-05-01,2022,05,ARGANZUELA,servicios_varios,8
+2022-05-01,2022,05,ARGANZUELA,total,109
+2022-05-01,2022,05,RETIRO,fuegos,17
+2022-05-01,2022,05,RETIRO,danos_en_construccion,5
+2022-05-01,2022,05,RETIRO,salvamentos_y_rescates,24
+2022-05-01,2022,05,RETIRO,danos_por_agua,9
+2022-05-01,2022,05,RETIRO,incidentes_diversos,15
+2022-05-01,2022,05,RETIRO,salidas_sin_intervencion,15
+2022-05-01,2022,05,RETIRO,servicios_varios,0
+2022-05-01,2022,05,RETIRO,total,85
+2022-05-01,2022,05,SALAMANCA,fuegos,16
+2022-05-01,2022,05,SALAMANCA,danos_en_construccion,18
+2022-05-01,2022,05,SALAMANCA,salvamentos_y_rescates,32
+2022-05-01,2022,05,SALAMANCA,danos_por_agua,5
+2022-05-01,2022,05,SALAMANCA,incidentes_diversos,20
+2022-05-01,2022,05,SALAMANCA,salidas_sin_intervencion,15
+2022-05-01,2022,05,SALAMANCA,servicios_varios,15
+2022-05-01,2022,05,SALAMANCA,total,121
+2022-05-01,2022,05,CHAMARTIN,fuegos,12
+2022-05-01,2022,05,CHAMARTIN,danos_en_construccion,7
+2022-05-01,2022,05,CHAMARTIN,salvamentos_y_rescates,19
+2022-05-01,2022,05,CHAMARTIN,danos_por_agua,5
+2022-05-01,2022,05,CHAMARTIN,incidentes_diversos,24
+2022-05-01,2022,05,CHAMARTIN,salidas_sin_intervencion,19
+2022-05-01,2022,05,CHAMARTIN,servicios_varios,10
+2022-05-01,2022,05,CHAMARTIN,total,96
+2022-05-01,2022,05,TETUAN,fuegos,22
+2022-05-01,2022,05,TETUAN,danos_en_construccion,13
+2022-05-01,2022,05,TETUAN,salvamentos_y_rescates,23
+2022-05-01,2022,05,TETUAN,danos_por_agua,7
+2022-05-01,2022,05,TETUAN,incidentes_diversos,13
+2022-05-01,2022,05,TETUAN,salidas_sin_intervencion,25
+2022-05-01,2022,05,TETUAN,servicios_varios,5
+2022-05-01,2022,05,TETUAN,total,108
+2022-05-01,2022,05,CHAMBERI,fuegos,15
+2022-05-01,2022,05,CHAMBERI,danos_en_construccion,5
+2022-05-01,2022,05,CHAMBERI,salvamentos_y_rescates,27
+2022-05-01,2022,05,CHAMBERI,danos_por_agua,10
+2022-05-01,2022,05,CHAMBERI,incidentes_diversos,21
+2022-05-01,2022,05,CHAMBERI,salidas_sin_intervencion,19
+2022-05-01,2022,05,CHAMBERI,servicios_varios,6
+2022-05-01,2022,05,CHAMBERI,total,103
+2022-05-01,2022,05,FUENCARRAL,fuegos,31
+2022-05-01,2022,05,FUENCARRAL,danos_en_construccion,3
+2022-05-01,2022,05,FUENCARRAL,salvamentos_y_rescates,23
+2022-05-01,2022,05,FUENCARRAL,danos_por_agua,8
+2022-05-01,2022,05,FUENCARRAL,incidentes_diversos,16
+2022-05-01,2022,05,FUENCARRAL,salidas_sin_intervencion,26
+2022-05-01,2022,05,FUENCARRAL,servicios_varios,14
+2022-05-01,2022,05,FUENCARRAL,total,121
+2022-05-01,2022,05,MONCLOA,fuegos,27
+2022-05-01,2022,05,MONCLOA,danos_en_construccion,4
+2022-05-01,2022,05,MONCLOA,salvamentos_y_rescates,22
+2022-05-01,2022,05,MONCLOA,danos_por_agua,11
+2022-05-01,2022,05,MONCLOA,incidentes_diversos,21
+2022-05-01,2022,05,MONCLOA,salidas_sin_intervencion,20
+2022-05-01,2022,05,MONCLOA,servicios_varios,6
+2022-05-01,2022,05,MONCLOA,total,111
+2022-05-01,2022,05,LATINA,fuegos,21
+2022-05-01,2022,05,LATINA,danos_en_construccion,10
+2022-05-01,2022,05,LATINA,salvamentos_y_rescates,43
+2022-05-01,2022,05,LATINA,danos_por_agua,8
+2022-05-01,2022,05,LATINA,incidentes_diversos,17
+2022-05-01,2022,05,LATINA,salidas_sin_intervencion,32
+2022-05-01,2022,05,LATINA,servicios_varios,8
+2022-05-01,2022,05,LATINA,total,139
+2022-05-01,2022,05,CARABANCHEL,fuegos,23
+2022-05-01,2022,05,CARABANCHEL,danos_en_construccion,9
+2022-05-01,2022,05,CARABANCHEL,salvamentos_y_rescates,49
+2022-05-01,2022,05,CARABANCHEL,danos_por_agua,11
+2022-05-01,2022,05,CARABANCHEL,incidentes_diversos,15
+2022-05-01,2022,05,CARABANCHEL,salidas_sin_intervencion,23
+2022-05-01,2022,05,CARABANCHEL,servicios_varios,6
+2022-05-01,2022,05,CARABANCHEL,total,136
+2022-05-01,2022,05,USERA,fuegos,19
+2022-05-01,2022,05,USERA,danos_en_construccion,3
+2022-05-01,2022,05,USERA,salvamentos_y_rescates,20
+2022-05-01,2022,05,USERA,danos_por_agua,6
+2022-05-01,2022,05,USERA,incidentes_diversos,10
+2022-05-01,2022,05,USERA,salidas_sin_intervencion,14
+2022-05-01,2022,05,USERA,servicios_varios,4
+2022-05-01,2022,05,USERA,total,76
+2022-05-01,2022,05,PUENTE VALLECAS,fuegos,40
+2022-05-01,2022,05,PUENTE VALLECAS,danos_en_construccion,12
+2022-05-01,2022,05,PUENTE VALLECAS,salvamentos_y_rescates,39
+2022-05-01,2022,05,PUENTE VALLECAS,danos_por_agua,9
+2022-05-01,2022,05,PUENTE VALLECAS,incidentes_diversos,26
+2022-05-01,2022,05,PUENTE VALLECAS,salidas_sin_intervencion,24
+2022-05-01,2022,05,PUENTE VALLECAS,servicios_varios,7
+2022-05-01,2022,05,PUENTE VALLECAS,total,157
+2022-05-01,2022,05,MORATALAZ,fuegos,16
+2022-05-01,2022,05,MORATALAZ,danos_en_construccion,3
+2022-05-01,2022,05,MORATALAZ,salvamentos_y_rescates,15
+2022-05-01,2022,05,MORATALAZ,danos_por_agua,6
+2022-05-01,2022,05,MORATALAZ,incidentes_diversos,11
+2022-05-01,2022,05,MORATALAZ,salidas_sin_intervencion,10
+2022-05-01,2022,05,MORATALAZ,servicios_varios,4
+2022-05-01,2022,05,MORATALAZ,total,65
+2022-05-01,2022,05,CIUDAD LINEAL,fuegos,16
+2022-05-01,2022,05,CIUDAD LINEAL,danos_en_construccion,4
+2022-05-01,2022,05,CIUDAD LINEAL,salvamentos_y_rescates,34
+2022-05-01,2022,05,CIUDAD LINEAL,danos_por_agua,10
+2022-05-01,2022,05,CIUDAD LINEAL,incidentes_diversos,18
+2022-05-01,2022,05,CIUDAD LINEAL,salidas_sin_intervencion,27
+2022-05-01,2022,05,CIUDAD LINEAL,servicios_varios,2
+2022-05-01,2022,05,CIUDAD LINEAL,total,111
+2022-05-01,2022,05,HORTALEZA,fuegos,23
+2022-05-01,2022,05,HORTALEZA,danos_en_construccion,3
+2022-05-01,2022,05,HORTALEZA,salvamentos_y_rescates,29
+2022-05-01,2022,05,HORTALEZA,danos_por_agua,10
+2022-05-01,2022,05,HORTALEZA,incidentes_diversos,19
+2022-05-01,2022,05,HORTALEZA,salidas_sin_intervencion,22
+2022-05-01,2022,05,HORTALEZA,servicios_varios,0
+2022-05-01,2022,05,HORTALEZA,total,106
+2022-05-01,2022,05,VILLAVERDE,fuegos,39
+2022-05-01,2022,05,VILLAVERDE,danos_en_construccion,5
+2022-05-01,2022,05,VILLAVERDE,salvamentos_y_rescates,26
+2022-05-01,2022,05,VILLAVERDE,danos_por_agua,25
+2022-05-01,2022,05,VILLAVERDE,incidentes_diversos,18
+2022-05-01,2022,05,VILLAVERDE,salidas_sin_intervencion,16
+2022-05-01,2022,05,VILLAVERDE,servicios_varios,3
+2022-05-01,2022,05,VILLAVERDE,total,132
+2022-05-01,2022,05,VILLA DE VALLECAS,fuegos,43
+2022-05-01,2022,05,VILLA DE VALLECAS,danos_en_construccion,2
+2022-05-01,2022,05,VILLA DE VALLECAS,salvamentos_y_rescates,35
+2022-05-01,2022,05,VILLA DE VALLECAS,danos_por_agua,10
+2022-05-01,2022,05,VILLA DE VALLECAS,incidentes_diversos,12
+2022-05-01,2022,05,VILLA DE VALLECAS,salidas_sin_intervencion,25
+2022-05-01,2022,05,VILLA DE VALLECAS,servicios_varios,3
+2022-05-01,2022,05,VILLA DE VALLECAS,total,130
+2022-05-01,2022,05,VICALVARO,fuegos,8
+2022-05-01,2022,05,VICALVARO,danos_en_construccion,0
+2022-05-01,2022,05,VICALVARO,salvamentos_y_rescates,7
+2022-05-01,2022,05,VICALVARO,danos_por_agua,1
+2022-05-01,2022,05,VICALVARO,incidentes_diversos,10
+2022-05-01,2022,05,VICALVARO,salidas_sin_intervencion,6
+2022-05-01,2022,05,VICALVARO,servicios_varios,4
+2022-05-01,2022,05,VICALVARO,total,36
+2022-05-01,2022,05,SAN BLAS,fuegos,16
+2022-05-01,2022,05,SAN BLAS,danos_en_construccion,8
+2022-05-01,2022,05,SAN BLAS,salvamentos_y_rescates,27
+2022-05-01,2022,05,SAN BLAS,danos_por_agua,3
+2022-05-01,2022,05,SAN BLAS,incidentes_diversos,11
+2022-05-01,2022,05,SAN BLAS,salidas_sin_intervencion,21
+2022-05-01,2022,05,SAN BLAS,servicios_varios,6
+2022-05-01,2022,05,SAN BLAS,total,92
+2022-05-01,2022,05,BARAJAS,fuegos,5
+2022-05-01,2022,05,BARAJAS,danos_en_construccion,2
+2022-05-01,2022,05,BARAJAS,salvamentos_y_rescates,7
+2022-05-01,2022,05,BARAJAS,danos_por_agua,2
+2022-05-01,2022,05,BARAJAS,incidentes_diversos,9
+2022-05-01,2022,05,BARAJAS,salidas_sin_intervencion,4
+2022-05-01,2022,05,BARAJAS,servicios_varios,1
+2022-05-01,2022,05,BARAJAS,total,30
+2022-05-01,2022,05,FUERA TERMINO MUNICIPAL,fuegos,3
+2022-05-01,2022,05,FUERA TERMINO MUNICIPAL,danos_en_construccion,0
+2022-05-01,2022,05,FUERA TERMINO MUNICIPAL,salvamentos_y_rescates,0
+2022-05-01,2022,05,FUERA TERMINO MUNICIPAL,danos_por_agua,0
+2022-05-01,2022,05,FUERA TERMINO MUNICIPAL,incidentes_diversos,1
+2022-05-01,2022,05,FUERA TERMINO MUNICIPAL,salidas_sin_intervencion,3
+2022-05-01,2022,05,FUERA TERMINO MUNICIPAL,servicios_varios,0
+2022-05-01,2022,05,FUERA TERMINO MUNICIPAL,total,7
+2022-04-01,2022,04,CENTRO,fuegos,22
+2022-04-01,2022,04,CENTRO,danos_en_construccion,27
+2022-04-01,2022,04,CENTRO,salvamentos_y_rescates,53
+2022-04-01,2022,04,CENTRO,danos_por_agua,25
+2022-04-01,2022,04,CENTRO,incidentes_diversos,27
+2022-04-01,2022,04,CENTRO,salidas_sin_intervencion,45
+2022-04-01,2022,04,CENTRO,servicios_varios,4
+2022-04-01,2022,04,CENTRO,total,203
+2022-04-01,2022,04,ARGANZUELA,fuegos,24
+2022-04-01,2022,04,ARGANZUELA,danos_en_construccion,6
+2022-04-01,2022,04,ARGANZUELA,salvamentos_y_rescates,18
+2022-04-01,2022,04,ARGANZUELA,danos_por_agua,5
+2022-04-01,2022,04,ARGANZUELA,incidentes_diversos,24
+2022-04-01,2022,04,ARGANZUELA,salidas_sin_intervencion,18
+2022-04-01,2022,04,ARGANZUELA,servicios_varios,2
+2022-04-01,2022,04,ARGANZUELA,total,97
+2022-04-01,2022,04,RETIRO,fuegos,6
+2022-04-01,2022,04,RETIRO,danos_en_construccion,3
+2022-04-01,2022,04,RETIRO,salvamentos_y_rescates,15
+2022-04-01,2022,04,RETIRO,danos_por_agua,2
+2022-04-01,2022,04,RETIRO,incidentes_diversos,12
+2022-04-01,2022,04,RETIRO,salidas_sin_intervencion,14
+2022-04-01,2022,04,RETIRO,servicios_varios,0
+2022-04-01,2022,04,RETIRO,total,52
+2022-04-01,2022,04,SALAMANCA,fuegos,8
+2022-04-01,2022,04,SALAMANCA,danos_en_construccion,14
+2022-04-01,2022,04,SALAMANCA,salvamentos_y_rescates,43
+2022-04-01,2022,04,SALAMANCA,danos_por_agua,12
+2022-04-01,2022,04,SALAMANCA,incidentes_diversos,18
+2022-04-01,2022,04,SALAMANCA,salidas_sin_intervencion,19
+2022-04-01,2022,04,SALAMANCA,servicios_varios,7
+2022-04-01,2022,04,SALAMANCA,total,121
+2022-04-01,2022,04,CHAMARTIN,fuegos,13
+2022-04-01,2022,04,CHAMARTIN,danos_en_construccion,8
+2022-04-01,2022,04,CHAMARTIN,salvamentos_y_rescates,20
+2022-04-01,2022,04,CHAMARTIN,danos_por_agua,7
+2022-04-01,2022,04,CHAMARTIN,incidentes_diversos,18
+2022-04-01,2022,04,CHAMARTIN,salidas_sin_intervencion,17
+2022-04-01,2022,04,CHAMARTIN,servicios_varios,9
+2022-04-01,2022,04,CHAMARTIN,total,92
+2022-04-01,2022,04,TETUAN,fuegos,11
+2022-04-01,2022,04,TETUAN,danos_en_construccion,15
+2022-04-01,2022,04,TETUAN,salvamentos_y_rescates,35
+2022-04-01,2022,04,TETUAN,danos_por_agua,15
+2022-04-01,2022,04,TETUAN,incidentes_diversos,17
+2022-04-01,2022,04,TETUAN,salidas_sin_intervencion,19
+2022-04-01,2022,04,TETUAN,servicios_varios,4
+2022-04-01,2022,04,TETUAN,total,116
+2022-04-01,2022,04,CHAMBERI,fuegos,13
+2022-04-01,2022,04,CHAMBERI,danos_en_construccion,13
+2022-04-01,2022,04,CHAMBERI,salvamentos_y_rescates,31
+2022-04-01,2022,04,CHAMBERI,danos_por_agua,13
+2022-04-01,2022,04,CHAMBERI,incidentes_diversos,11
+2022-04-01,2022,04,CHAMBERI,salidas_sin_intervencion,15
+2022-04-01,2022,04,CHAMBERI,servicios_varios,1
+2022-04-01,2022,04,CHAMBERI,total,97
+2022-04-01,2022,04,FUENCARRAL,fuegos,17
+2022-04-01,2022,04,FUENCARRAL,danos_en_construccion,7
+2022-04-01,2022,04,FUENCARRAL,salvamentos_y_rescates,23
+2022-04-01,2022,04,FUENCARRAL,danos_por_agua,6
+2022-04-01,2022,04,FUENCARRAL,incidentes_diversos,24
+2022-04-01,2022,04,FUENCARRAL,salidas_sin_intervencion,25
+2022-04-01,2022,04,FUENCARRAL,servicios_varios,5
+2022-04-01,2022,04,FUENCARRAL,total,107
+2022-04-01,2022,04,MONCLOA,fuegos,15
+2022-04-01,2022,04,MONCLOA,danos_en_construccion,7
+2022-04-01,2022,04,MONCLOA,salvamentos_y_rescates,19
+2022-04-01,2022,04,MONCLOA,danos_por_agua,2
+2022-04-01,2022,04,MONCLOA,incidentes_diversos,28
+2022-04-01,2022,04,MONCLOA,salidas_sin_intervencion,12
+2022-04-01,2022,04,MONCLOA,servicios_varios,6
+2022-04-01,2022,04,MONCLOA,total,89
+2022-04-01,2022,04,LATINA,fuegos,6
+2022-04-01,2022,04,LATINA,danos_en_construccion,9
+2022-04-01,2022,04,LATINA,salvamentos_y_rescates,35
+2022-04-01,2022,04,LATINA,danos_por_agua,10
+2022-04-01,2022,04,LATINA,incidentes_diversos,10
+2022-04-01,2022,04,LATINA,salidas_sin_intervencion,21
+2022-04-01,2022,04,LATINA,servicios_varios,13
+2022-04-01,2022,04,LATINA,total,104
+2022-04-01,2022,04,CARABANCHEL,fuegos,27
+2022-04-01,2022,04,CARABANCHEL,danos_en_construccion,7
+2022-04-01,2022,04,CARABANCHEL,salvamentos_y_rescates,44
+2022-04-01,2022,04,CARABANCHEL,danos_por_agua,13
+2022-04-01,2022,04,CARABANCHEL,incidentes_diversos,15
+2022-04-01,2022,04,CARABANCHEL,salidas_sin_intervencion,27
+2022-04-01,2022,04,CARABANCHEL,servicios_varios,1
+2022-04-01,2022,04,CARABANCHEL,total,134
+2022-04-01,2022,04,USERA,fuegos,18
+2022-04-01,2022,04,USERA,danos_en_construccion,5
+2022-04-01,2022,04,USERA,salvamentos_y_rescates,18
+2022-04-01,2022,04,USERA,danos_por_agua,4
+2022-04-01,2022,04,USERA,incidentes_diversos,8
+2022-04-01,2022,04,USERA,salidas_sin_intervencion,23
+2022-04-01,2022,04,USERA,servicios_varios,2
+2022-04-01,2022,04,USERA,total,78
+2022-04-01,2022,04,PUENTE VALLECAS,fuegos,19
+2022-04-01,2022,04,PUENTE VALLECAS,danos_en_construccion,7
+2022-04-01,2022,04,PUENTE VALLECAS,salvamentos_y_rescates,26
+2022-04-01,2022,04,PUENTE VALLECAS,danos_por_agua,13
+2022-04-01,2022,04,PUENTE VALLECAS,incidentes_diversos,21
+2022-04-01,2022,04,PUENTE VALLECAS,salidas_sin_intervencion,16
+2022-04-01,2022,04,PUENTE VALLECAS,servicios_varios,6
+2022-04-01,2022,04,PUENTE VALLECAS,total,108
+2022-04-01,2022,04,MORATALAZ,fuegos,4
+2022-04-01,2022,04,MORATALAZ,danos_en_construccion,1
+2022-04-01,2022,04,MORATALAZ,salvamentos_y_rescates,9
+2022-04-01,2022,04,MORATALAZ,danos_por_agua,5
+2022-04-01,2022,04,MORATALAZ,incidentes_diversos,7
+2022-04-01,2022,04,MORATALAZ,salidas_sin_intervencion,5
+2022-04-01,2022,04,MORATALAZ,servicios_varios,1
+2022-04-01,2022,04,MORATALAZ,total,32
+2022-04-01,2022,04,CIUDAD LINEAL,fuegos,16
+2022-04-01,2022,04,CIUDAD LINEAL,danos_en_construccion,9
+2022-04-01,2022,04,CIUDAD LINEAL,salvamentos_y_rescates,28
+2022-04-01,2022,04,CIUDAD LINEAL,danos_por_agua,7
+2022-04-01,2022,04,CIUDAD LINEAL,incidentes_diversos,17
+2022-04-01,2022,04,CIUDAD LINEAL,salidas_sin_intervencion,16
+2022-04-01,2022,04,CIUDAD LINEAL,servicios_varios,2
+2022-04-01,2022,04,CIUDAD LINEAL,total,95
+2022-04-01,2022,04,HORTALEZA,fuegos,11
+2022-04-01,2022,04,HORTALEZA,danos_en_construccion,3
+2022-04-01,2022,04,HORTALEZA,salvamentos_y_rescates,19
+2022-04-01,2022,04,HORTALEZA,danos_por_agua,8
+2022-04-01,2022,04,HORTALEZA,incidentes_diversos,25
+2022-04-01,2022,04,HORTALEZA,salidas_sin_intervencion,17
+2022-04-01,2022,04,HORTALEZA,servicios_varios,0
+2022-04-01,2022,04,HORTALEZA,total,83
+2022-04-01,2022,04,VILLAVERDE,fuegos,19
+2022-04-01,2022,04,VILLAVERDE,danos_en_construccion,3
+2022-04-01,2022,04,VILLAVERDE,salvamentos_y_rescates,24
+2022-04-01,2022,04,VILLAVERDE,danos_por_agua,10
+2022-04-01,2022,04,VILLAVERDE,incidentes_diversos,9
+2022-04-01,2022,04,VILLAVERDE,salidas_sin_intervencion,14
+2022-04-01,2022,04,VILLAVERDE,servicios_varios,4
+2022-04-01,2022,04,VILLAVERDE,total,83
+2022-04-01,2022,04,VILLA DE VALLECAS,fuegos,9
+2022-04-01,2022,04,VILLA DE VALLECAS,danos_en_construccion,4
+2022-04-01,2022,04,VILLA DE VALLECAS,salvamentos_y_rescates,10
+2022-04-01,2022,04,VILLA DE VALLECAS,danos_por_agua,3
+2022-04-01,2022,04,VILLA DE VALLECAS,incidentes_diversos,12
+2022-04-01,2022,04,VILLA DE VALLECAS,salidas_sin_intervencion,6
+2022-04-01,2022,04,VILLA DE VALLECAS,servicios_varios,0
+2022-04-01,2022,04,VILLA DE VALLECAS,total,44
+2022-04-01,2022,04,VICALVARO,fuegos,8
+2022-04-01,2022,04,VICALVARO,danos_en_construccion,0
+2022-04-01,2022,04,VICALVARO,salvamentos_y_rescates,9
+2022-04-01,2022,04,VICALVARO,danos_por_agua,5
+2022-04-01,2022,04,VICALVARO,incidentes_diversos,3
+2022-04-01,2022,04,VICALVARO,salidas_sin_intervencion,7
+2022-04-01,2022,04,VICALVARO,servicios_varios,3
+2022-04-01,2022,04,VICALVARO,total,35
+2022-04-01,2022,04,SAN BLAS,fuegos,14
+2022-04-01,2022,04,SAN BLAS,danos_en_construccion,4
+2022-04-01,2022,04,SAN BLAS,salvamentos_y_rescates,18
+2022-04-01,2022,04,SAN BLAS,danos_por_agua,1
+2022-04-01,2022,04,SAN BLAS,incidentes_diversos,18
+2022-04-01,2022,04,SAN BLAS,salidas_sin_intervencion,8
+2022-04-01,2022,04,SAN BLAS,servicios_varios,9
+2022-04-01,2022,04,SAN BLAS,total,72
+2022-04-01,2022,04,BARAJAS,fuegos,4
+2022-04-01,2022,04,BARAJAS,danos_en_construccion,0
+2022-04-01,2022,04,BARAJAS,salvamentos_y_rescates,3
+2022-04-01,2022,04,BARAJAS,danos_por_agua,1
+2022-04-01,2022,04,BARAJAS,incidentes_diversos,2
+2022-04-01,2022,04,BARAJAS,salidas_sin_intervencion,5
+2022-04-01,2022,04,BARAJAS,servicios_varios,2
+2022-04-01,2022,04,BARAJAS,total,17
+2022-04-01,2022,04,FUERA TERMINO MUNICIPAL,fuegos,0
+2022-04-01,2022,04,FUERA TERMINO MUNICIPAL,danos_en_construccion,0
+2022-04-01,2022,04,FUERA TERMINO MUNICIPAL,salvamentos_y_rescates,0
+2022-04-01,2022,04,FUERA TERMINO MUNICIPAL,danos_por_agua,0
+2022-04-01,2022,04,FUERA TERMINO MUNICIPAL,incidentes_diversos,0
+2022-04-01,2022,04,FUERA TERMINO MUNICIPAL,salidas_sin_intervencion,1
+2022-04-01,2022,04,FUERA TERMINO MUNICIPAL,servicios_varios,0
+2022-04-01,2022,04,FUERA TERMINO MUNICIPAL,total,1
+2022-03-01,2022,03,CENTRO,fuegos,36
+2022-03-01,2022,03,CENTRO,danos_en_construccion,23
+2022-03-01,2022,03,CENTRO,salvamentos_y_rescates,68
+2022-03-01,2022,03,CENTRO,danos_por_agua,16
+2022-03-01,2022,03,CENTRO,incidentes_diversos,16
+2022-03-01,2022,03,CENTRO,salidas_sin_intervencion,51
+2022-03-01,2022,03,CENTRO,servicios_varios,9
+2022-03-01,2022,03,CENTRO,total,219
+2022-03-01,2022,03,ARGANZUELA,fuegos,14
+2022-03-01,2022,03,ARGANZUELA,danos_en_construccion,3
+2022-03-01,2022,03,ARGANZUELA,salvamentos_y_rescates,22
+2022-03-01,2022,03,ARGANZUELA,danos_por_agua,9
+2022-03-01,2022,03,ARGANZUELA,incidentes_diversos,19
+2022-03-01,2022,03,ARGANZUELA,salidas_sin_intervencion,11
+2022-03-01,2022,03,ARGANZUELA,servicios_varios,5
+2022-03-01,2022,03,ARGANZUELA,total,83
+2022-03-01,2022,03,RETIRO,fuegos,8
+2022-03-01,2022,03,RETIRO,danos_en_construccion,8
+2022-03-01,2022,03,RETIRO,salvamentos_y_rescates,19
+2022-03-01,2022,03,RETIRO,danos_por_agua,7
+2022-03-01,2022,03,RETIRO,incidentes_diversos,4
+2022-03-01,2022,03,RETIRO,salidas_sin_intervencion,7
+2022-03-01,2022,03,RETIRO,servicios_varios,2
+2022-03-01,2022,03,RETIRO,total,55
+2022-03-01,2022,03,SALAMANCA,fuegos,17
+2022-03-01,2022,03,SALAMANCA,danos_en_construccion,11
+2022-03-01,2022,03,SALAMANCA,salvamentos_y_rescates,22
+2022-03-01,2022,03,SALAMANCA,danos_por_agua,8
+2022-03-01,2022,03,SALAMANCA,incidentes_diversos,10
+2022-03-01,2022,03,SALAMANCA,salidas_sin_intervencion,15
+2022-03-01,2022,03,SALAMANCA,servicios_varios,8
+2022-03-01,2022,03,SALAMANCA,total,91
+2022-03-01,2022,03,CHAMARTIN,fuegos,14
+2022-03-01,2022,03,CHAMARTIN,danos_en_construccion,5
+2022-03-01,2022,03,CHAMARTIN,salvamentos_y_rescates,20
+2022-03-01,2022,03,CHAMARTIN,danos_por_agua,7
+2022-03-01,2022,03,CHAMARTIN,incidentes_diversos,11
+2022-03-01,2022,03,CHAMARTIN,salidas_sin_intervencion,15
+2022-03-01,2022,03,CHAMARTIN,servicios_varios,7
+2022-03-01,2022,03,CHAMARTIN,total,79
+2022-03-01,2022,03,TETUAN,fuegos,12
+2022-03-01,2022,03,TETUAN,danos_en_construccion,9
+2022-03-01,2022,03,TETUAN,salvamentos_y_rescates,35
+2022-03-01,2022,03,TETUAN,danos_por_agua,9
+2022-03-01,2022,03,TETUAN,incidentes_diversos,7
+2022-03-01,2022,03,TETUAN,salidas_sin_intervencion,16
+2022-03-01,2022,03,TETUAN,servicios_varios,1
+2022-03-01,2022,03,TETUAN,total,89
+2022-03-01,2022,03,CHAMBERI,fuegos,11
+2022-03-01,2022,03,CHAMBERI,danos_en_construccion,7
+2022-03-01,2022,03,CHAMBERI,salvamentos_y_rescates,26
+2022-03-01,2022,03,CHAMBERI,danos_por_agua,6
+2022-03-01,2022,03,CHAMBERI,incidentes_diversos,15
+2022-03-01,2022,03,CHAMBERI,salidas_sin_intervencion,17
+2022-03-01,2022,03,CHAMBERI,servicios_varios,0
+2022-03-01,2022,03,CHAMBERI,total,82
+2022-03-01,2022,03,FUENCARRAL,fuegos,14
+2022-03-01,2022,03,FUENCARRAL,danos_en_construccion,2
+2022-03-01,2022,03,FUENCARRAL,salvamentos_y_rescates,20
+2022-03-01,2022,03,FUENCARRAL,danos_por_agua,12
+2022-03-01,2022,03,FUENCARRAL,incidentes_diversos,17
+2022-03-01,2022,03,FUENCARRAL,salidas_sin_intervencion,22
+2022-03-01,2022,03,FUENCARRAL,servicios_varios,4
+2022-03-01,2022,03,FUENCARRAL,total,91
+2022-03-01,2022,03,MONCLOA,fuegos,8
+2022-03-01,2022,03,MONCLOA,danos_en_construccion,7
+2022-03-01,2022,03,MONCLOA,salvamentos_y_rescates,26
+2022-03-01,2022,03,MONCLOA,danos_por_agua,8
+2022-03-01,2022,03,MONCLOA,incidentes_diversos,14
+2022-03-01,2022,03,MONCLOA,salidas_sin_intervencion,18
+2022-03-01,2022,03,MONCLOA,servicios_varios,3
+2022-03-01,2022,03,MONCLOA,total,84
+2022-03-01,2022,03,LATINA,fuegos,13
+2022-03-01,2022,03,LATINA,danos_en_construccion,5
+2022-03-01,2022,03,LATINA,salvamentos_y_rescates,32
+2022-03-01,2022,03,LATINA,danos_por_agua,6
+2022-03-01,2022,03,LATINA,incidentes_diversos,11
+2022-03-01,2022,03,LATINA,salidas_sin_intervencion,21
+2022-03-01,2022,03,LATINA,servicios_varios,7
+2022-03-01,2022,03,LATINA,total,95
+2022-03-01,2022,03,CARABANCHEL,fuegos,13
+2022-03-01,2022,03,CARABANCHEL,danos_en_construccion,8
+2022-03-01,2022,03,CARABANCHEL,salvamentos_y_rescates,43
+2022-03-01,2022,03,CARABANCHEL,danos_por_agua,6
+2022-03-01,2022,03,CARABANCHEL,incidentes_diversos,15
+2022-03-01,2022,03,CARABANCHEL,salidas_sin_intervencion,22
+2022-03-01,2022,03,CARABANCHEL,servicios_varios,6
+2022-03-01,2022,03,CARABANCHEL,total,113
+2022-03-01,2022,03,USERA,fuegos,6
+2022-03-01,2022,03,USERA,danos_en_construccion,3
+2022-03-01,2022,03,USERA,salvamentos_y_rescates,22
+2022-03-01,2022,03,USERA,danos_por_agua,5
+2022-03-01,2022,03,USERA,incidentes_diversos,11
+2022-03-01,2022,03,USERA,salidas_sin_intervencion,23
+2022-03-01,2022,03,USERA,servicios_varios,2
+2022-03-01,2022,03,USERA,total,72
+2022-03-01,2022,03,PUENTE VALLECAS,fuegos,23
+2022-03-01,2022,03,PUENTE VALLECAS,danos_en_construccion,7
+2022-03-01,2022,03,PUENTE VALLECAS,salvamentos_y_rescates,32
+2022-03-01,2022,03,PUENTE VALLECAS,danos_por_agua,12
+2022-03-01,2022,03,PUENTE VALLECAS,incidentes_diversos,15
+2022-03-01,2022,03,PUENTE VALLECAS,salidas_sin_intervencion,17
+2022-03-01,2022,03,PUENTE VALLECAS,servicios_varios,3
+2022-03-01,2022,03,PUENTE VALLECAS,total,109
+2022-03-01,2022,03,MORATALAZ,fuegos,11
+2022-03-01,2022,03,MORATALAZ,danos_en_construccion,0
+2022-03-01,2022,03,MORATALAZ,salvamentos_y_rescates,15
+2022-03-01,2022,03,MORATALAZ,danos_por_agua,4
+2022-03-01,2022,03,MORATALAZ,incidentes_diversos,3
+2022-03-01,2022,03,MORATALAZ,salidas_sin_intervencion,7
+2022-03-01,2022,03,MORATALAZ,servicios_varios,0
+2022-03-01,2022,03,MORATALAZ,total,40
+2022-03-01,2022,03,CIUDAD LINEAL,fuegos,12
+2022-03-01,2022,03,CIUDAD LINEAL,danos_en_construccion,2
+2022-03-01,2022,03,CIUDAD LINEAL,salvamentos_y_rescates,20
+2022-03-01,2022,03,CIUDAD LINEAL,danos_por_agua,5
+2022-03-01,2022,03,CIUDAD LINEAL,incidentes_diversos,8
+2022-03-01,2022,03,CIUDAD LINEAL,salidas_sin_intervencion,12
+2022-03-01,2022,03,CIUDAD LINEAL,servicios_varios,1
+2022-03-01,2022,03,CIUDAD LINEAL,total,60
+2022-03-01,2022,03,HORTALEZA,fuegos,14
+2022-03-01,2022,03,HORTALEZA,danos_en_construccion,7
+2022-03-01,2022,03,HORTALEZA,salvamentos_y_rescates,14
+2022-03-01,2022,03,HORTALEZA,danos_por_agua,5
+2022-03-01,2022,03,HORTALEZA,incidentes_diversos,8
+2022-03-01,2022,03,HORTALEZA,salidas_sin_intervencion,16
+2022-03-01,2022,03,HORTALEZA,servicios_varios,5
+2022-03-01,2022,03,HORTALEZA,total,69
+2022-03-01,2022,03,VILLAVERDE,fuegos,31
+2022-03-01,2022,03,VILLAVERDE,danos_en_construccion,3
+2022-03-01,2022,03,VILLAVERDE,salvamentos_y_rescates,22
+2022-03-01,2022,03,VILLAVERDE,danos_por_agua,11
+2022-03-01,2022,03,VILLAVERDE,incidentes_diversos,9
+2022-03-01,2022,03,VILLAVERDE,salidas_sin_intervencion,18
+2022-03-01,2022,03,VILLAVERDE,servicios_varios,3
+2022-03-01,2022,03,VILLAVERDE,total,97
+2022-03-01,2022,03,VILLA DE VALLECAS,fuegos,18
+2022-03-01,2022,03,VILLA DE VALLECAS,danos_en_construccion,2
+2022-03-01,2022,03,VILLA DE VALLECAS,salvamentos_y_rescates,12
+2022-03-01,2022,03,VILLA DE VALLECAS,danos_por_agua,3
+2022-03-01,2022,03,VILLA DE VALLECAS,incidentes_diversos,3
+2022-03-01,2022,03,VILLA DE VALLECAS,salidas_sin_intervencion,12
+2022-03-01,2022,03,VILLA DE VALLECAS,servicios_varios,1
+2022-03-01,2022,03,VILLA DE VALLECAS,total,51
+2022-03-01,2022,03,VICALVARO,fuegos,12
+2022-03-01,2022,03,VICALVARO,danos_en_construccion,1
+2022-03-01,2022,03,VICALVARO,salvamentos_y_rescates,8
+2022-03-01,2022,03,VICALVARO,danos_por_agua,2
+2022-03-01,2022,03,VICALVARO,incidentes_diversos,1
+2022-03-01,2022,03,VICALVARO,salidas_sin_intervencion,5
+2022-03-01,2022,03,VICALVARO,servicios_varios,0
+2022-03-01,2022,03,VICALVARO,total,29
+2022-03-01,2022,03,SAN BLAS,fuegos,10
+2022-03-01,2022,03,SAN BLAS,danos_en_construccion,3
+2022-03-01,2022,03,SAN BLAS,salvamentos_y_rescates,19
+2022-03-01,2022,03,SAN BLAS,danos_por_agua,6
+2022-03-01,2022,03,SAN BLAS,incidentes_diversos,15
+2022-03-01,2022,03,SAN BLAS,salidas_sin_intervencion,14
+2022-03-01,2022,03,SAN BLAS,servicios_varios,2
+2022-03-01,2022,03,SAN BLAS,total,69
+2022-03-01,2022,03,BARAJAS,fuegos,4
+2022-03-01,2022,03,BARAJAS,danos_en_construccion,0
+2022-03-01,2022,03,BARAJAS,salvamentos_y_rescates,8
+2022-03-01,2022,03,BARAJAS,danos_por_agua,1
+2022-03-01,2022,03,BARAJAS,incidentes_diversos,3
+2022-03-01,2022,03,BARAJAS,salidas_sin_intervencion,6
+2022-03-01,2022,03,BARAJAS,servicios_varios,1
+2022-03-01,2022,03,BARAJAS,total,23
+2022-03-01,2022,03,FUERA TERMINO MUNICIPAL,fuegos,2
+2022-03-01,2022,03,FUERA TERMINO MUNICIPAL,danos_en_construccion,0
+2022-03-01,2022,03,FUERA TERMINO MUNICIPAL,salvamentos_y_rescates,1
+2022-03-01,2022,03,FUERA TERMINO MUNICIPAL,danos_por_agua,0
+2022-03-01,2022,03,FUERA TERMINO MUNICIPAL,incidentes_diversos,0
+2022-03-01,2022,03,FUERA TERMINO MUNICIPAL,salidas_sin_intervencion,1
+2022-03-01,2022,03,FUERA TERMINO MUNICIPAL,servicios_varios,0
+2022-03-01,2022,03,FUERA TERMINO MUNICIPAL,total,4
+2022-01-01,2022,01,CENTRO,fuegos,9
+2022-01-01,2022,01,CENTRO,danos_en_construccion,6
+2022-01-01,2022,01,CENTRO,salvamentos_y_rescates,21
+2022-01-01,2022,01,CENTRO,danos_por_agua,9
+2022-01-01,2022,01,CENTRO,incidentes_diversos,8
+2022-01-01,2022,01,CENTRO,salidas_sin_intervencion,15
+2022-01-01,2022,01,CENTRO,servicios_varios,2
+2022-01-01,2022,01,CENTRO,total,70
+2022-01-01,2022,01,ARGANZUELA,fuegos,8
+2022-01-01,2022,01,ARGANZUELA,danos_en_construccion,1
+2022-01-01,2022,01,ARGANZUELA,salvamentos_y_rescates,5
+2022-01-01,2022,01,ARGANZUELA,danos_por_agua,8
+2022-01-01,2022,01,ARGANZUELA,incidentes_diversos,6
+2022-01-01,2022,01,ARGANZUELA,salidas_sin_intervencion,5
+2022-01-01,2022,01,ARGANZUELA,servicios_varios,0
+2022-01-01,2022,01,ARGANZUELA,total,33
+2022-01-01,2022,01,RETIRO,fuegos,2
+2022-01-01,2022,01,RETIRO,danos_en_construccion,0
+2022-01-01,2022,01,RETIRO,salvamentos_y_rescates,4
+2022-01-01,2022,01,RETIRO,danos_por_agua,3
+2022-01-01,2022,01,RETIRO,incidentes_diversos,3
+2022-01-01,2022,01,RETIRO,salidas_sin_intervencion,0
+2022-01-01,2022,01,RETIRO,servicios_varios,2
+2022-01-01,2022,01,RETIRO,total,14
+2022-01-01,2022,01,SALAMANCA,fuegos,3
+2022-01-01,2022,01,SALAMANCA,danos_en_construccion,3
+2022-01-01,2022,01,SALAMANCA,salvamentos_y_rescates,16
+2022-01-01,2022,01,SALAMANCA,danos_por_agua,4
+2022-01-01,2022,01,SALAMANCA,incidentes_diversos,5
+2022-01-01,2022,01,SALAMANCA,salidas_sin_intervencion,8
+2022-01-01,2022,01,SALAMANCA,servicios_varios,2
+2022-01-01,2022,01,SALAMANCA,total,41
+2022-01-01,2022,01,CHAMARTIN,fuegos,7
+2022-01-01,2022,01,CHAMARTIN,danos_en_construccion,1
+2022-01-01,2022,01,CHAMARTIN,salvamentos_y_rescates,11
+2022-01-01,2022,01,CHAMARTIN,danos_por_agua,3
+2022-01-01,2022,01,CHAMARTIN,incidentes_diversos,1
+2022-01-01,2022,01,CHAMARTIN,salidas_sin_intervencion,5
+2022-01-01,2022,01,CHAMARTIN,servicios_varios,1
+2022-01-01,2022,01,CHAMARTIN,total,29
+2022-01-01,2022,01,TETUAN,fuegos,6
+2022-01-01,2022,01,TETUAN,danos_en_construccion,2
+2022-01-01,2022,01,TETUAN,salvamentos_y_rescates,12
+2022-01-01,2022,01,TETUAN,danos_por_agua,6
+2022-01-01,2022,01,TETUAN,incidentes_diversos,4
+2022-01-01,2022,01,TETUAN,salidas_sin_intervencion,7
+2022-01-01,2022,01,TETUAN,servicios_varios,0
+2022-01-01,2022,01,TETUAN,total,37
+2022-01-01,2022,01,CHAMBERI,fuegos,8
+2022-01-01,2022,01,CHAMBERI,danos_en_construccion,4
+2022-01-01,2022,01,CHAMBERI,salvamentos_y_rescates,10
+2022-01-01,2022,01,CHAMBERI,danos_por_agua,2
+2022-01-01,2022,01,CHAMBERI,incidentes_diversos,6
+2022-01-01,2022,01,CHAMBERI,salidas_sin_intervencion,7
+2022-01-01,2022,01,CHAMBERI,servicios_varios,0
+2022-01-01,2022,01,CHAMBERI,total,37
+2022-01-01,2022,01,FUENCARRAL,fuegos,11
+2022-01-01,2022,01,FUENCARRAL,danos_en_construccion,0
+2022-01-01,2022,01,FUENCARRAL,salvamentos_y_rescates,17
+2022-01-01,2022,01,FUENCARRAL,danos_por_agua,3
+2022-01-01,2022,01,FUENCARRAL,incidentes_diversos,7
+2022-01-01,2022,01,FUENCARRAL,salidas_sin_intervencion,6
+2022-01-01,2022,01,FUENCARRAL,servicios_varios,2
+2022-01-01,2022,01,FUENCARRAL,total,46
+2022-01-01,2022,01,MONCLOA,fuegos,6
+2022-01-01,2022,01,MONCLOA,danos_en_construccion,2
+2022-01-01,2022,01,MONCLOA,salvamentos_y_rescates,4
+2022-01-01,2022,01,MONCLOA,danos_por_agua,0
+2022-01-01,2022,01,MONCLOA,incidentes_diversos,3
+2022-01-01,2022,01,MONCLOA,salidas_sin_intervencion,7
+2022-01-01,2022,01,MONCLOA,servicios_varios,1
+2022-01-01,2022,01,MONCLOA,total,23
+2022-01-01,2022,01,LATINA,fuegos,9
+2022-01-01,2022,01,LATINA,danos_en_construccion,2
+2022-01-01,2022,01,LATINA,salvamentos_y_rescates,17
+2022-01-01,2022,01,LATINA,danos_por_agua,4
+2022-01-01,2022,01,LATINA,incidentes_diversos,9
+2022-01-01,2022,01,LATINA,salidas_sin_intervencion,4
+2022-01-01,2022,01,LATINA,servicios_varios,2
+2022-01-01,2022,01,LATINA,total,47
+2022-01-01,2022,01,CARABANCHEL,fuegos,7
+2022-01-01,2022,01,CARABANCHEL,danos_en_construccion,2
+2022-01-01,2022,01,CARABANCHEL,salvamentos_y_rescates,10
+2022-01-01,2022,01,CARABANCHEL,danos_por_agua,4
+2022-01-01,2022,01,CARABANCHEL,incidentes_diversos,2
+2022-01-01,2022,01,CARABANCHEL,salidas_sin_intervencion,12
+2022-01-01,2022,01,CARABANCHEL,servicios_varios,1
+2022-01-01,2022,01,CARABANCHEL,total,38
+2022-01-01,2022,01,USERA,fuegos,9
+2022-01-01,2022,01,USERA,danos_en_construccion,2
+2022-01-01,2022,01,USERA,salvamentos_y_rescates,6
+2022-01-01,2022,01,USERA,danos_por_agua,3
+2022-01-01,2022,01,USERA,incidentes_diversos,4
+2022-01-01,2022,01,USERA,salidas_sin_intervencion,10
+2022-01-01,2022,01,USERA,servicios_varios,1
+2022-01-01,2022,01,USERA,total,35
+2022-01-01,2022,01,PUENTE VALLECAS,fuegos,17
+2022-01-01,2022,01,PUENTE VALLECAS,danos_en_construccion,3
+2022-01-01,2022,01,PUENTE VALLECAS,salvamentos_y_rescates,18
+2022-01-01,2022,01,PUENTE VALLECAS,danos_por_agua,7
+2022-01-01,2022,01,PUENTE VALLECAS,incidentes_diversos,4
+2022-01-01,2022,01,PUENTE VALLECAS,salidas_sin_intervencion,10
+2022-01-01,2022,01,PUENTE VALLECAS,servicios_varios,1
+2022-01-01,2022,01,PUENTE VALLECAS,total,60
+2022-01-01,2022,01,MORATALAZ,fuegos,3
+2022-01-01,2022,01,MORATALAZ,danos_en_construccion,0
+2022-01-01,2022,01,MORATALAZ,salvamentos_y_rescates,8
+2022-01-01,2022,01,MORATALAZ,danos_por_agua,0
+2022-01-01,2022,01,MORATALAZ,incidentes_diversos,3
+2022-01-01,2022,01,MORATALAZ,salidas_sin_intervencion,7
+2022-01-01,2022,01,MORATALAZ,servicios_varios,0
+2022-01-01,2022,01,MORATALAZ,total,21
+2022-01-01,2022,01,CIUDAD LINEAL,fuegos,7
+2022-01-01,2022,01,CIUDAD LINEAL,danos_en_construccion,2
+2022-01-01,2022,01,CIUDAD LINEAL,salvamentos_y_rescates,25
+2022-01-01,2022,01,CIUDAD LINEAL,danos_por_agua,4
+2022-01-01,2022,01,CIUDAD LINEAL,incidentes_diversos,4
+2022-01-01,2022,01,CIUDAD LINEAL,salidas_sin_intervencion,8
+2022-01-01,2022,01,CIUDAD LINEAL,servicios_varios,0
+2022-01-01,2022,01,CIUDAD LINEAL,total,50
+2022-01-01,2022,01,HORTALEZA,fuegos,8
+2022-01-01,2022,01,HORTALEZA,danos_en_construccion,1
+2022-01-01,2022,01,HORTALEZA,salvamentos_y_rescates,7
+2022-01-01,2022,01,HORTALEZA,danos_por_agua,0
+2022-01-01,2022,01,HORTALEZA,incidentes_diversos,4
+2022-01-01,2022,01,HORTALEZA,salidas_sin_intervencion,5
+2022-01-01,2022,01,HORTALEZA,servicios_varios,1
+2022-01-01,2022,01,HORTALEZA,total,26
+2022-01-01,2022,01,VILLAVERDE,fuegos,11
+2022-01-01,2022,01,VILLAVERDE,danos_en_construccion,2
+2022-01-01,2022,01,VILLAVERDE,salvamentos_y_rescates,9
+2022-01-01,2022,01,VILLAVERDE,danos_por_agua,6
+2022-01-01,2022,01,VILLAVERDE,incidentes_diversos,3
+2022-01-01,2022,01,VILLAVERDE,salidas_sin_intervencion,7
+2022-01-01,2022,01,VILLAVERDE,servicios_varios,1
+2022-01-01,2022,01,VILLAVERDE,total,39
+2022-01-01,2022,01,VILLA DE VALLECAS,fuegos,10
+2022-01-01,2022,01,VILLA DE VALLECAS,danos_en_construccion,1
+2022-01-01,2022,01,VILLA DE VALLECAS,salvamentos_y_rescates,9
+2022-01-01,2022,01,VILLA DE VALLECAS,danos_por_agua,3
+2022-01-01,2022,01,VILLA DE VALLECAS,incidentes_diversos,3
+2022-01-01,2022,01,VILLA DE VALLECAS,salidas_sin_intervencion,7
+2022-01-01,2022,01,VILLA DE VALLECAS,servicios_varios,0
+2022-01-01,2022,01,VILLA DE VALLECAS,total,33
+2022-01-01,2022,01,VICALVARO,fuegos,7
+2022-01-01,2022,01,VICALVARO,danos_en_construccion,0
+2022-01-01,2022,01,VICALVARO,salvamentos_y_rescates,7
+2022-01-01,2022,01,VICALVARO,danos_por_agua,0
+2022-01-01,2022,01,VICALVARO,incidentes_diversos,2
+2022-01-01,2022,01,VICALVARO,salidas_sin_intervencion,0
+2022-01-01,2022,01,VICALVARO,servicios_varios,2
+2022-01-01,2022,01,VICALVARO,total,18
+2022-01-01,2022,01,SAN BLAS,fuegos,6
+2022-01-01,2022,01,SAN BLAS,danos_en_construccion,2
+2022-01-01,2022,01,SAN BLAS,salvamentos_y_rescates,9
+2022-01-01,2022,01,SAN BLAS,danos_por_agua,1
+2022-01-01,2022,01,SAN BLAS,incidentes_diversos,1
+2022-01-01,2022,01,SAN BLAS,salidas_sin_intervencion,8
+2022-01-01,2022,01,SAN BLAS,servicios_varios,3
+2022-01-01,2022,01,SAN BLAS,total,30
+2022-01-01,2022,01,BARAJAS,fuegos,4
+2022-01-01,2022,01,BARAJAS,danos_en_construccion,0
+2022-01-01,2022,01,BARAJAS,salvamentos_y_rescates,2
+2022-01-01,2022,01,BARAJAS,danos_por_agua,0
+2022-01-01,2022,01,BARAJAS,incidentes_diversos,1
+2022-01-01,2022,01,BARAJAS,salidas_sin_intervencion,3
+2022-01-01,2022,01,BARAJAS,servicios_varios,0
+2022-01-01,2022,01,BARAJAS,total,10
