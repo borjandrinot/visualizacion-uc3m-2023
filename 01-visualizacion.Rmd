@@ -6,11 +6,34 @@ output: html_notebook
 Ejercicio 1.- A partir del dataset del Ayuntamiento de Madrid sobre tipos de salidas, haz un gráfico de barras en el que se observen los principales motivos. 
 ```{r}
 
+library(tidyverse)
+library(here)
+
+url_all <- "https://raw.githubusercontent.com/borjandrinot/visualizacion-uc3m-2023/main/data_raw/data_bomberos_all.csv"
+
+url_long <- "https://raw.githubusercontent.com/borjandrinot/visualizacion-uc3m-2023/main/data_raw/data_bomberos_long.csv"
+
+data_bomberos_all <- read_csv(url_all)
+data_bomberos_long <- read_csv(url_long)
+  
+
+ggplot(data_bomberos_all) + 
+  geom_col(aes(x = tipo_salida, y = salidas)) +
+  coord_flip() +
+  theme_minimal()
+
 ```
 
 
 Ejercicio 2.- Añade color a la visualización para resaltar los tipos de salidas con mayor incidencia
 ```{r}
+
+ggplot(data_bomberos_all) + 
+  geom_col(aes(x = tipo_salida, y = salidas, 
+               fill = salidas), 
+           color = "black", size = 0.3, width = 0.5) +
+  coord_flip() +
+  theme_minimal()
 
 ```
 
