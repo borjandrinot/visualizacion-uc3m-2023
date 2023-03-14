@@ -1,0 +1,54 @@
+---
+title: "Ejercicios transformación (+ material)"
+format: html
+editor: visual
+---
+
+```{r}
+
+library(tidyverse)
+library(here)
+
+datos_munis <- read_csv(here("data_raw/2022_cyl_municipios.csv")) 
+
+```
+
+**Ejercicio 1.** Calcula el top 10 y el bottom 10 por participación de los municipios de la provincia de Ávila
+
+```{r}
+```
+
+**Ejercicio 1b.** Haz lo mismo para los municipios que no sean de la provincia de Zamora.
+
+```{r}
+```
+
+**Ejercicio 2.** Calcula la suma de votos nulos en los municipios en los que ganaran partidos regionalistas y la participación fuese menor del 60%.
+
+```{r}
+```
+
+**Ejercicio 2b.** Haz lo mismo para los municipios que no sean de la provincia de Zamora.
+
+```{r}
+```
+
+**Ejercicio 3.** Calcula el porcentaje de votos que habría obtenido cada partido si solo contáramos los municipios con menos de 10.000 votantes.
+
+```{r}
+```
+
+**Ejercicio 3b.** ¿Y en cada provincia?
+
+```{r}
+```
+
+**Ejercicio 4.** Calcula la participación media entre los municipios de cada provincia y la participación real en cada provincia.
+
+```{r}
+```
+
+**Ejercicio 4b.** Repite este mismo cálculo solo en los municipios en los que haya ganado el Partido Popular.
+
+```{r}
+```
