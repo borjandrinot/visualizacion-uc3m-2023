@@ -9,13 +9,59 @@ editor: visual
 library(tidyverse)
 library(here)
 
-datos_munis <- read_csv(here("data_raw/2022_cyl_municipios.csv")) 
+datos_munis_raw <- 
+  read_csv("data_raw/2022_cyl_municipios.csv") %>% 
+  mutate(codigo_mun = as.numeric(codigo_mun))
+
+dict_provincias <- read_csv("data_raw/2022_cod_provincias_ine.csv")
+
+datos_munis <- 
+  datos_munis_raw %>% 
+  mutate(codigo_mun = str_pad(codigo_mun, 
+                              width = 5, 
+                              side = "left", 
+                              pad = "0"), 
+         c_pro = str_sub(codigo_mun, 1, 2)) %>% 
+  left_join(dict_provincias, c("c_pro" = "codigo_prov"))
 
 ```
 
 **Ejercicio 1.** Calcula el top 10 y el bottom 10 por participación de los municipios de la provincia de Ávila
 
 ```{r}
+
+datos_munis %>% 
+  filter(prov == "Ávila") %>% 
+  distinct(codigo_mun, .keep_all = T) %>% 
+  slice_max(part, n = 10) %>% 
+  select(codigo_mun, part)
+
+datos_munis %>% 
+  filter(prov == "Ávila") %>% 
+  distinct(codigo_mun, .keep_all = T) %>% 
+  slice_min(part, n = 10) %>% 
+  select(codigo_mun, part)
+
+
+datos_munis %>% 
+  filter(prov == "Ávila") %>% 
+  distinct(codigo_mun, .keep_all = T) %>% 
+  mutate(posicion = rank(desc(part), 
+                     ties.method = "random"), 
+         max_posicion = max(posicion),
+         limite_inferior = 10, 
+         limite_superior = max_posicion - 10, 
+         tipo = case_when(posicion <= limite_inferior ~ 
+                            "Mucha participación", 
+                          posicion >= limite_superior ~ 
+                            "Poca participación",
+                          T ~ "Resto")) %>% 
+  select(codigo_mun, part, posicion, contains("limite"), tipo) %>% 
+  # filter(posicion <= limite_inferior |
+  #          posicion >= limite_superior) %>% 
+  filter(tipo %in% c("Mucha participación", "Poca participación")) %>% 
+  View()
+
 ```
 
 **Ejercicio 1b.** Haz lo mismo para los municipios que no sean de la provincia de Zamora.

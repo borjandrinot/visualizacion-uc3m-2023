@@ -28,6 +28,15 @@ riqueza_df <-
 
 ```{r}
 
+riqueza_df %>% 
+  filter(str_detect(grupo, "edad_")) %>% 
+  mutate(grupo = str_remove(grupo, "edad_") %>%
+           fct_relevel(c("menos_35")),
+         renta = round(renta, 1), 
+         patrimonio = round(patrimonio, 1)) %>% 
+  select(año = year, edad = 2, 4) %>% 
+  arrange(desc(año), edad)
+
 ```
 
 **Ejercicio 2.** A partir del *dataframe* anterior, haz el siguiente gráfico:
@@ -35,6 +44,19 @@ riqueza_df <-
 ![](imgs/trans_2.png)
 
 ```{r}
+
+riqueza_df %>% 
+  filter(str_detect(grupo, "edad_")) %>% 
+  mutate(grupo = str_remove(grupo, "edad_") %>%
+           fct_relevel(c("menos_35"))) %>% 
+  ggplot(aes(x = year, y = patrimonio,
+             color = grupo)) +
+  geom_line(size = 1) + 
+  geom_hline(yintercept = 0, size = 0.2) +
+  scale_x_continuous(breaks = seq(2002, 2020, 2), 
+                     minor_breaks = NULL) +
+  scale_color_brewer(palette = "PuOr") +
+  theme_minimal()
 
 ```
 
@@ -44,6 +66,25 @@ riqueza_df <-
 
 ```{r}
 
+riqueza_df %>% 
+  filter(str_detect(grupo, "edad_")) %>% 
+  mutate(grupo = str_remove(grupo, "edad_"), 
+         grupo = str_replace_all(grupo, "_", " a "), 
+         grupo = str_replace_all(grupo, "mas a ", ">"),
+         grupo = str_replace_all(grupo, "menos a ", "<"), 
+         grupo = fct_relevel(grupo, "<35")) %>%  
+  ggplot(aes(x = year, y = patrimonio,
+             color = grupo, fill = grupo)) +
+  geom_area(alpha = 0.6, size = 1) + 
+  geom_hline(yintercept = 0, size = 0.2) +
+  scale_x_continuous(breaks = c(2002, 2010, 2018)) +
+  scale_color_brewer(palette = "PuOr") +
+  scale_fill_brewer(palette = "PuOr") +
+  facet_wrap(~grupo) + 
+  theme_minimal() + 
+  theme(panel.grid.minor = element_blank())
+
+
 ```
 
 **Ejercicio 4.** Vuelve a los datos iniciales y transfórmalo, para acabar haciendo el gráfico siguiente. Necesitas usar rentas en lugar de patrimonio, y estudios en lugar de edades. Además, fíjate que hemos filtrado el dato de 2011.
@@ -51,5 +92,25 @@ riqueza_df <-
 ![](imgs/trans_4.png)
 
 ```{r}
+
+
+riqueza_df %>% 
+  filter(str_detect(grupo, "edu_")) %>% 
+  mutate(grupo = str_remove(grupo, "edu_"), 
+         grupo = str_to_title(grupo),
+         grupo = str_replace_all(grupo, "_", " ")) %>%  
+  ggplot(aes(x = year, y = renta,
+             color = grupo)) +
+  geom_line(size = 1.5) + 
+  geom_point(size = 3) + 
+  geom_hline(yintercept = 0, size = 0.2) +
+  scale_x_continuous(breaks = c(2002, 2010, 2018)) +
+  scale_y_continuous(position = "right") +
+  scale_color_brewer(palette = "OrRd") +
+  coord_flip() +
+  theme_minimal() + 
+  theme(panel.grid.minor = element_blank())
+
+
 
 ```
