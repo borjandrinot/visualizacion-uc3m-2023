@@ -1,0 +1,268 @@
+---
+title: "Exploración y visualización de datos con R"
+author: "Borja Andrino"
+format:
+  revealjs: 
+    theme: [default, custom.scss]
+    footer: "<strong>Borja Andrino Turón</strong>"
+
+editor: visual
+---
+
+## API Datawrapper
+
+**Instalación y configuración**
+
+::: columns
+::: {.column width="50%"}
+```{r}
+#| echo: true
+#| eval: false
+
+install.packages("DatawRappr")
+
+```
+:::
+
+::: {.column width="50%"}
+Más información en el [github](https://github.com/munichrocker/DatawRappr) del creador del paquete
+:::
+:::
+
+## API Datawrapper
+
+**Instalación y configuración**
+
+Tenemos que crear un token secreto que servirá para identificarnos como usuarios cuando interactuemos con la API:\
+![](imgs/dw_1.png)
+
+## API Datawrapper
+
+**Instalación y configuración**
+
+::: columns
+::: {.column width="50%"}
+Es importante elegir bien los **scopes**, que son los privilegios que tendrá el usuario de ese token. Puede haber diferentes niveles: alguien que solo pueda hacer gráficos pero no moverlos o que no pueda gestionar a los usuarios del equipo:
+:::
+
+::: {.column width="50%"}
+![](imgs/dw_2.png)
+:::
+:::
+
+## API Datawrapper
+
+**Algunas funciones básicas**
+
+::: incremental
+-   dw_create_chart
+-   dw_copy_chart
+-   dw_data_to_chart
+-   dw_edit_chart
+-   dw_publish_chart
+:::
+
+## API Datawrapper
+
+[Primero creamos una carpeta y a continuación un gráfico. [Aquí](https://developer.datawrapper.de/docs/chart-types) el detalle de los tipos de gráficos.]{style="font-size: 80%;"}
+
+```{r}
+#| eval: true
+#| echo: false
+library(DatawRappr)
+library(janitor)
+
+```
+
+```{r}
+#| echo: true
+#| eval: false
+
+library(DatawRappr)
+library(janitor)
+
+datawrapper_auth("8TbVVC5i4j6rkG0kgnGOJxQB2PbgDAKKoULokwjNoInrqvHYVa3aArZrwLnQgah5", 
+                 overwrite = T)
+
+my_new_folder <- 
+  dw_create_folder("Mis primeros gráficos")
+
+my_new_chart  <- 
+  dw_create_chart(title = "Un gráfico de puntos", 
+                  type = "d3-scatter-plot")
+
+iris %>% 
+  clean_names() %>% 
+  dw_data_to_chart(my_new_chart$id) 
+
+```
+
+## API Datawrapper
+
+[Ahora modificamos algunos parámetros del gráfico. Esto es un poco tedioso, pero podemos explorar el objeto con los metadatos del gráfico.]{style="font-size: 80%;"}
+
+```{r}
+#| echo: true
+#| eval: false
+
+metadata <- 
+  dw_retrieve_chart_metadata(my_new_chart$id)
+
+colors <- list("setosa" = "#A0EADE",
+               "virginica" = "#5C6784",
+               "versicolor" = "#E18335")
+
+visualize <- metadata$content$metadata$visualize
+visualize$`color-category`$map <- colors
+visualize$tooltip$body <- "{{petal_length}}"
+
+dw_edit_chart(my_new_chart$id, 
+              folderId = my_new_folder$id, 
+              visualize = visualize,
+              axes = list(x = "petal_length", 
+                          y = "petal_width"))
+
+```
+
+## API Datawrapper
+
+[Por último, publicamos el gráfico y nos traemos su url (también los códigos de iframe). Esta función también sirve para **republicar** el gráfico.]{style="font-size: 80%;"}
+
+::: columns
+::: {.column width="50%" style="margin-top:150px;"}
+```{r}
+#| echo: true
+#| eval: false
+
+my_new_chart_publish_data <- 
+  dw_publish_chart(my_new_chart$id, return_object = T)
+
+knitr::include_url(my_new_chart_publish_data)
+```
+:::
+
+::: {.column width="50%"}
+```{r}
+#| echo: false
+#| eval: true
+#| fig-align: center
+
+knitr::include_url("https://datawrapper.dwcdn.net/uLUZZ/2/", height = 500)
+```
+:::
+:::
+
+## Ejercicios
+
+Repite este gráfico, pero ahora en Datawrapper desde R.
+
+![](imgs/dw_3.png){fig-align="center"}
+
+## Web scraping
+
+::: columns
+::: {.column width="50%" style="margin-top:200px;"}
+Necesitamos instalar la librería **rvest**. [Aquí](https://rvest.tidyverse.org) podemos encontrar toda su documentación.
+:::
+
+::: {.column width="50%" style="margin-top:200px;"}
+![](https://rvest.tidyverse.org/logo.png){fig-align="center"}
+:::
+:::
+
+## Web scraping
+
+::: columns
+::: {.column width="50%" style="margin-top:150px;"}
+Cada página web se estructura como un árbol anidado. Dada nodo de ese árbol es de un tipo (según el tag que lo abra) y tiene varios atributos. Entre ellos, los más importantes son el **id** y la **clase css**.
+:::
+
+::: {.column width="50%" style="margin-top:150px;"}
+![](https://www.w3schools.com/js/pic_htmltree.gif){fig-align="center"}
+:::
+:::
+
+## Web scraping
+
+::: columns
+::: {.column width="50%"}
+Leemos el código html de la web concreta con la función **read_html**. El resultado será un set de nodos.
+
+```{r}
+#| echo: true
+#| eval: true
+
+library(rvest)
+
+page_html <- read_html("https://datos.madrid.es/sites/v/index.jsp?vgnextoid=fa677996afc6f510VgnVCM1000001d4a900aRCRD&vgnextchannel=374512b9ace9f310VgnVCM100000171f5a0aRCRD")
+
+class(page_html)
+```
+:::
+
+::: {.column width="50%"}
+![](imgs/scraping_1.png){fig-align="center"}
+:::
+:::
+
+## Web scraping
+
+![](imgs/scraping_2.png){fig-align="center"}
+
+## Web scraping
+
+[Ahora sé que me interesan todos los nodos con tag **a** que tienen clase css **ico-csv**. Para encontrarlos puedo usar la función **html_elements**.]{style="font-size:80%;"}
+
+```{r}
+#| echo: true
+#| eval: false
+
+page_html %>% 
+  html_elements("a.ico-csv")
+
+```
+
+[Y a partir de ese set de nodos li puedo tratar de sacar la url a la que apuntan:]{style="font-size:80%;"}
+
+```{r}
+#| echo: true
+#| eval: true
+
+page_html %>% 
+  html_elements("a.ico-csv") %>% 
+  html_attr("href")
+
+```
+
+## Web scraping
+
+Pruebo ahora a sacar los datos de la clasificación de primera división en web del diario deportivo As.
+
+```{r}
+#| echo: true
+#| eval: false
+
+
+read_html("https://resultados.as.com/resultados/futbol/primera/clasificacion/") %>% 
+  html_elements("table.tabla-datos")
+  
+```
+
+Parece que no podemos aislar esta tabla y necesitamos precisar más. Una opción es usar el **xpath** de ese nodo. Además podemos usar la función **html_table** para pasar esa información a tibble.
+
+```{r}
+#| echo: true
+#| eval: false
+
+read_html("https://resultados.as.com/resultados/futbol/primera/clasificacion/") %>% 
+  html_element(xpath = '//*[@id="clasificacion-total"]/div/div/table') %>% 
+  html_table()
+```
+
+## Ejercicios
+
+**Ejercicio 1.** Limpia la tabla anterior para que aparezca tal y como la encontramos en la web.
+
+**Ejercicio 2.** Lee todos los datos de salidas de bomberos para disponibles en la página web del ayuntamiento de Madrid.
+
+**Ejercicio 3.** Imagina que no tuviésemos datos sobre el año dentro de cada csv. ¿Habría alguna forma de obtenerlo?

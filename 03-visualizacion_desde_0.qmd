@@ -7,7 +7,7 @@ editor: visual
 
 **Ejercicio 1.** Vamos a intentar hacer este gráfico:
 
-![](images/contaminacion_a.jpg)
+![](imgs/contaminacion_a.jpg)
 
 A partir de los datos de contaminación del ayuntamiento que se encuentran en este link.
 
@@ -18,7 +18,7 @@ A partir de los datos de contaminación del ayuntamiento que se encuentran en es
 
 **Ejercicio 2.** Ahora este otro:
 
-![](images/contaminacion_b.jpg)
+![](imgs/contaminacion_b.jpg)
 
 ```{r}
 
